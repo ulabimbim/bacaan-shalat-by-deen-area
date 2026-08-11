@@ -11,7 +11,7 @@ describe('Home page', () => {
 
   it('renders 10 sections in order', () => {
     render(<App />)
-    expect(screen.getByText('Ragam bacaan sunnah dalam setiap gerakan.')).toBeInTheDocument()
+    expect(screen.getByText('Variasi bacaan shalat dalam setiap gerakan.')).toBeInTheDocument()
     const buttons = screen.getAllByRole('button')
     expect(buttons).toHaveLength(10)
 
