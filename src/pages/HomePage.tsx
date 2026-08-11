@@ -14,7 +14,7 @@ export function HomePage() {
       <header className="home-header">
         <p className="home-kicker">Dibuat oleh tim Deen Area</p>
         <h1 className="home-title">Bacaan Shalat</h1>
-        <p className="home-subtitle">Kenali bacaan sesuai urutan shalat.</p>
+        <p className="home-subtitle">Ragam bacaan sunnah dalam setiap gerakan.</p>
         <p className="home-note">
           Sebagian bacaan merupakan alternatif dan sebagian memiliki konteks khusus. Buka sumber dan keterangan sebelum mengamalkannya.
         </p>
