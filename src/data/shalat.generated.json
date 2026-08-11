@@ -1,0 +1,2005 @@
+{
+  "version": 1,
+  "sections": [
+    {
+      "id": "doa_istiftah",
+      "order": 1,
+      "name": "Doa Istiftah",
+      "publishedCount": 12,
+      "readings": [
+        {
+          "id": "istiftah-01",
+          "displayOrder": 1,
+          "sourceOrder": 1,
+          "subcategory": "Umum",
+          "segments": [
+            {
+              "id": "istiftah-01-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَللَّهُمَّ بَاعِدْ بَيْنِيْ وَبَيْنَ خَطَايَايَ كَمَا بَاعَدْتَ بَيْنَ الْمَشْرِقِ وَالْمَغْرِبِ، اَللَّهُمَّ نَقِّنِيْ مِنْ خَطَايَايَ كَمَا يُنَقَّى الثَّوْبُ الْأَبْيَضُ مِنَ الدَّنَسِ، اَللَّهُمَّ اغْسِلْنِيْ مِنْ خَطَايَايَ بِالْمَاءِ وَالثَّلْجِ وَالْبَرَدِ",
+              "transliteration": "Allaahumma baa'id bainii wa baina khothooyaaya kamaa baa'adta bainal masyriqi wal maghrib. Allaahumma naqqinii min khothooyaaya kamaa yunaqqots-tsaubul abyadhu minad-danas. Allaahummaghsilnii min khothooyaaya bil maa-i wats-tsalji wal barod.",
+              "meaning": "Ya Allah, jauhkanlah antara aku dan kesalahan-kesalahanku sebagaimana Engkau jauhkan antara timur dan barat. Ya Allah, bersihkanlah aku dari kesalahan-kesalahanku sebagaimana baju putih dibersihkan dari kotoran. Ya Allah, cucilah aku dari kesalahan-kesalahanku dengan air, salju dan air es."
+            },
+            {
+              "id": "istiftah-01-s02",
+              "order": 2,
+              "label": "Dalam hadits lain (HR. Al-Bukhari 1/181 dan Muslim 1/419), bagian belakangnya sedikit berbeda",
+              "arabic": "… بِالثَّلْجِ وَالْمَاءِ وَالْبَرَدِ",
+              "transliteration": "… bits-tsalji wal maa-i wal barod.",
+              "meaning": "… dengan salju, air dan air es."
+            }
+          ],
+          "reference": {
+            "text": "HR. Al-Bukhari no. 744 dan Muslim no. 1353, dari Abu Hurairah.",
+            "evidenceType": "Hadis marfu’",
+            "note": "Rasulullah biasa mengucapkan doa istiftah ini dalam shalat fardhu.",
+            "context": "Doa istiftah banyak dan beragam. Rasulullah shallallahu ‘alaihi wa sallam sendiri mengganti-ganti bacaan doa istiftahnya. Terkadang membaca doa yang ini, di kali lain membaca doa yang itu. Ketika shalat fardhu beliau membaca yang satu dan ketika shalat nafilah/sunnah beliau membaca yang lainnya.\n\nBeberapa doa istiftah yang pernah diamalkan dan diajarkan Rasulullah shallallahu ‘alaihi wa sallam adalah:",
+            "sourceReference": "Hisnul Muslim dan http://asysyariah.com/shifat-shalat-nabi-bagian-5",
+            "url": "http://asysyariah.com/shifat-shalat-nabi-bagian-5"
+          }
+        },
+        {
+          "id": "istiftah-02",
+          "displayOrder": 2,
+          "sourceOrder": 2,
+          "subcategory": "Umum",
+          "segments": [
+            {
+              "id": "istiftah-02-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، وَتَبَارَكَ اسْمُكَ، وَتَعَالَى جَدُّكَ، وَلاَ إِلَـٰهَ غَيْرُكَ",
+              "transliteration": "Subhaanakallaahumma wa bihamdika, wa tabaarokasmuka, wa ta'aalaa jadduka, wa laa ilaaha ghairuk.",
+              "meaning": "Maha Suci Engkau ya Allah, aku memujiMu, Maha Berkah akan nama-Mu, Maha Tinggi kekayaan dan kebesaranMu, tidak ada sesembahan yang berhak disembah kecuali Engkau."
+            }
+          ],
+          "reference": {
+            "text": "HR. Empat penyusun kitab Sunan, dan lihat Shahih At-Tirmidzi 1/77 dan Shahih Ibnu Majah 1/135.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": null,
+            "sourceReference": "Hisnul Muslim.",
+            "url": null
+          }
+        },
+        {
+          "id": "istiftah-03",
+          "displayOrder": 3,
+          "sourceOrder": 3,
+          "subcategory": "Umum",
+          "segments": [
+            {
+              "id": "istiftah-03-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَلْحَمْدُ لِلَّهِ حَمْدًا كَثِيرًا طَيِّبًا مُبَارَكًا فِيهِ",
+              "transliteration": "Alhamdulillaahi hamdan katsiiron thoyyiban mubaarokan fiih.",
+              "meaning": "Segala puji bagi Allah, pujian yang banyak, baik, lagi berberkah."
+            }
+          ],
+          "reference": {
+            "text": "HR. Muslim no. 600.",
+            "evidenceType": "Sunnah taqririyah",
+            "note": "Dari Anas radhiallahu 'anhu dia berkata: \"Bahwa seorang laki-laki datang dan masuk shaff (barisan) sementara nafasnya masih terengah-engah, lalu mengucapkan: (doa di atas).\" Seusai shalat, Rasulullah shallallahu 'alaihi wa sallam bertanya: \"Siapakah diantara kalian yang mengucapkan kalimat tadi?\" Para sahabat terdiam. Beliau mengulangi pertanyaannya, \"Siapakah yang mengucapkan kalimat tadi, karena hal itu tidak masalah baginya.\" Lantas seorang sahabat berujar, \"Aku tadi datang, sementara napasku masih terengah-engah, maka kuucapkan kalimat itu (maksudnya pendek dan ringkas).\" Beliau bersabda: \"Tadi aku melihat dua belas malaikat berebut mengangkat ucapan itu.\"",
+            "context": null,
+            "sourceReference": "Sahih Muslim no. 600.",
+            "url": "https://sunnah.com/muslim:600"
+          }
+        },
+        {
+          "id": "istiftah-04",
+          "displayOrder": 4,
+          "sourceOrder": 4,
+          "subcategory": "Umum",
+          "segments": [
+            {
+              "id": "istiftah-04-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَللَّهُ أَكْبَرُ كَبِيرًا، وَالْحَمْدُ لِلَّهِ كَثِيرًا، وَسُبْحَانَ اللَّهِ بُكْرَةً وَأَصِيلًا",
+              "transliteration": "Allaahu akbar kabiiroo, wal hamdulillaahi katsiiroo, wa subhaanallaahi bukrataw-wa ashiilaa.",
+              "meaning": "Allah Maha Besar, Segala Puji bagi Allah, pujian yang banyak, Maha Suci Allah, baik waktu pagi dan petang."
+            }
+          ],
+          "reference": {
+            "text": "HR. Muslim no. 601 (penomoran standar Sunnah.com; file sumber mencantumkan no. 943).",
+            "evidenceType": "Sunnah taqririyah",
+            "note": "Dari Ibnu Umar dia berkata, \"Ketika kami shalat bersama Rasulullah shallallahu 'alaihi wasallam, tiba-tiba seseorang mengucapkan: (doa di atas).\" Lantas Rasulullah shallallahu 'alaihi wasallam bertanya: \"Siapakah yang mengucapkan kalimat tadi?\" Seorang sahabat menjawab, \"Saya wahai Rasulullah.\" Beliau bersabda, \"Sungguh aku sangat kagum dengan ucapan tadi, sebab pintu-pintu langit dibuka karena kalimat itu.\" Kata Ibnu Umar, \"Maka aku tak pernah lagi meninggalkannya semenjak aku mendengar Rasulullah shallallahu 'alaihi wasallam mengucapkan hal itu.\"",
+            "context": null,
+            "sourceReference": "Sahih Muslim no. 601.",
+            "url": "https://sunnah.com/muslim:601"
+          }
+        },
+        {
+          "id": "istiftah-05",
+          "displayOrder": 5,
+          "sourceOrder": 5,
+          "subcategory": "Shalat malam",
+          "segments": [
+            {
+              "id": "istiftah-05-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَللَّهُ أَكْبَرُ (3×)، ذُو الْمَلَكُوتِ، وَالْجَبَرُوتِ، وَالْكِبْرِيَاءِ، وَالْعَظَمَةِ",
+              "transliteration": "Allaahu akbar (3x), dzul malakuuti, wal jabaruuti, wal kibriyaa-i, wal 'azhomah.",
+              "meaning": "Allah Maha Besar (3x), yang memiliki kerajaan besar, kekuasaan, kebesaran, dan keagungan."
+            }
+          ],
+          "reference": {
+            "text": "HR. Ath Thayalisi 56, Al Baihaqi 2/121-122.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": null,
+            "sourceReference": "http://muslim.or.id/fiqh-dan-muamalah/macam-–-macam-doa-istiftah.html",
+            "url": "https://www.alukah.net/sharia/0/83621/"
+          }
+        },
+        {
+          "id": "istiftah-06",
+          "displayOrder": 6,
+          "sourceOrder": 6,
+          "subcategory": "Shalat malam",
+          "segments": [
+            {
+              "id": "istiftah-06-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَللَّهُ أَكْبَرُ (10×)، اَلْحَمْدُ لِلَّهِ (10×)، سُبْحَانَ اللَّهِ (10×)، لاَ إِلَـٰهَ إلاَّ اللَّهُ (10×)، أَسْتَغْفِرُ اللَّهَ (10×). اَللَّهُمَّ اغْفِرْ لِيْ، وَاهْدِنِيْ، وَارْزُقْنِيْ، وَعَافِنِيْ (10×). اَللَّهُمَّ إِنِّيْ أَعُوْذُ بِكَ مِنَ الضِّيْقِ يَوْمَ الْحِسَابِ (10×)",
+              "transliteration": "Allaahu akbar (10x), Alhamdulillaah (10x), Subhanallaah (10x), Laa ilaaha illallaah (10x), Astaghfirullaah (10x). Allaahummaghfir lii, wahdinii, warzuqnii, wa 'aafinii (10x). Allaahumma innii a'uudzu bika minadh-dhiiqi yaumal hisaab (10x).",
+              "meaning": "Allah Maha Besar (10x), Segala puji bagi Allah (10x), Mahasuci Allah (10x), tidak ada sesembahan yang berhak disembah kecuali Allah (10x), Aku memohon ampun kepada Allah (10x). Ya Allah, ampunilah aku, berilah petunjuk kepadaku, berilah rezeki kepadaku dan berilah kesehatan kepadaku (10x). Ya Allah, sungguh aku berlindung kepada-Mu dari kesempitan pada hari penghisaban (perhitungan amalan) (10x)."
+            }
+          ],
+          "reference": {
+            "text": "HR. Ahmad 6/143 dan Ath-Thabarani dalam Al-Ausath 62/2, dari Aisyah, dengan sanad yang shahih sebagaimana dalam Ashlu Shifati Shalatin Nabi, 1/267.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": null,
+            "sourceReference": "http://asysyariah.com/shifat-shalat-nabi-bagian-5",
+            "url": "https://sunnah.com/abudawud:766"
+          }
+        },
+        {
+          "id": "istiftah-07",
+          "displayOrder": 7,
+          "sourceOrder": 7,
+          "subcategory": "Umum",
+          "segments": [
+            {
+              "id": "istiftah-07-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "وَجَّهْتُ وَجْهِيَ لِلَّذِيْ فَطَرَ السَّمَاوَاتِ وَاْلأَرْضَ، حَنِيْفًا وَمَا أَنَا مِنَ الْمُشْرِكِيْنَ. إِنَّ صَلاَتِيْ، وَنُسُكِيْ، وَمَحْيَايَ، وَمَمَاتِيْ لِلَّهِ رَبِّ الْعَالَمِيْنَ، لاَ شَرِيْكَ لَهُ. وَبِذَالِكَ أُمِرْتُ وَأَنَا مِنَ الْمُسْلِمِيْنَ. اَللَّهُمَّ أَنْتَ الْمَلِكُ لاَ إِلَـٰهَ إِلاَّ أَنْتَ. أَنْتَ رَبِّيْ وَأَنَا عَبْدُكَ. ظَلَمْتُ نَفْسِيْ وَاعْتَرَفْتُ بِذَنْبِيْ. فَاغْفِرْ لِيْ ذُنُوْبِيْ جَمِيْعًا، إِنَّهُ لاَ يَغْفِرُ الذُّنُوْبَ إِلاَّ أَنْتَ. وَاهْدِنِيْ لِأَحْسَنِ اْلأَخْلاَقِ، لاَ يَهْدِيْ لِأَحْسَنِهَا إِلاَّ أَنْتَ. وَاصْرِفْ عَنِّيْ سَيِّئَهَا، لاَ يَصْرِفُ عَنِّيْ سَيِّئَهَا إِلاَّ أَنْتَ. لَبَّيْكَ وَسَعْدَيْكَ، وَالْخَيْرُ كُلُّهُ بِيَدَيْكَ، وَالشَّرُّ لَيْسَ إِلَيْكَ. أَنَا بِكَ وَإِلَيْكَ. تَبَارَكْتَ وَتَعَالَيْتَ، أَسْتَغْفِرُكَ وَأَتُوْبُ إِلَيْكَ",
+              "transliteration": "Wajjahtu wajhiya lilladzii fathoros-samaawaati wal ardhi, haniifan wa maa anaa minal musyrikiin. Inna sholaatii, wa nusukii, wa mahyaaya, wa mamaatii lillaahi robbil 'aalamiin, laa syariika lah. Wa bidzaalika umirtu wa anaa minal muslimiin. Allaahumma antal maliku laa ilaaha illaa anta. Anta robbii wa anaa 'abduk. Zholamtu nafsii wa'taroftu bidzanbii. Faghfir lii dzunuubii jamii'an, innahu laa yaghfirudz-dzunuuba illaa anta. Wahdinii li-ahsanil akhlaaqi, laa yahdii li-ahsanihaa illaa anta. Washrif 'annii sayyi-ahaa, laa yashrifu 'annii sayyi-ahaa illaa anta. Labbaika wa sa'daika, walkhoiru kulluhu biyadaika, wasy-syarru laisa ilaik. Anaa bika wa ilaik. Tabaarokta wa ta'aalaita, astaghfiruka wa atuubu ilaik.",
+              "meaning": "Aku hadapkan wajahku kepada Tuhan Pencipta langit dan bumi, dengan memegang agama yang lurus dan aku tidak termasuk orang-orang yang musyrik. Sesungguhnya shalatku, ibadahku, hidupku dan matiku adalah untuk Allah, Tuhan semesta alam, tiada sekutu bagiNya. Demikianlah aku diperintah dan aku termasuk orang-orang muslim. Ya Allah, Engkau adalah Raja, tidak ada sesembahan yang berhak disembah kecuali Engkau. Engkau Tuhanku dan aku adalah hambaMu. Aku menganiaya diriku, aku mengakui dosaku (yang telah kulakukan). Oleh karena itu ampunilah seluruh dosaku, sesungguhnya tidak akan ada yang mengampuni dosa-dosa, kecuali Engkau. Tunjukkan aku pada akhlak yang terbaik, tidak ada yang bisa menunjukkan kepadanya kecuali Engkau. Hindarkan aku dari akhlak yang buruk, tidak ada yang bisa menjauhkanku darinya kecuali Engkau. Aku penuhi panggilanMu, aku mohon pertolonganMu, seluruh kebaikan berada di kedua tanganMu, kejelekan tidak dinisbatkan kepadaMu. Aku hidup dengan pertolongan dan rahmatMu, dan kepadaMu (aku kembali). Maha Suci Engkau dan Maha Tinggi, aku minta ampun dan bertaubat kepadaMu."
+            }
+          ],
+          "reference": {
+            "text": "HR. Muslim 1/534.",
+            "evidenceType": "Hadis marfu’",
+            "note": "Doa ini biasa dibaca Rasulullah Shallallahu ’alaihi Wasallam dalam shalat fardhu dan shalat sunnah.",
+            "context": null,
+            "sourceReference": "Hisnul Muslim dan http://muslim.or.id/fiqh-dan-muamalah/macam-–-macam-doa-istiftah.html",
+            "url": "http://muslim.or.id/fiqh-dan-muamalah/macam-–-macam-doa-istiftah.html"
+          }
+        },
+        {
+          "id": "istiftah-08",
+          "displayOrder": 8,
+          "sourceOrder": 8,
+          "subcategory": "Umum",
+          "segments": [
+            {
+              "id": "istiftah-08-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "وَجَّهْتُ وَجْهِيَ لِلَّذِيْ فَطَرَ السَّمَوَاتِ وَالْأَرْضَ، حَنِيفًا مُسْلِمًا وَمَا أَنَا مِنَ الْمُشْرِكِينَ. إِنَّ صَلَاتِيْ، وَنُسُكِيْ، وَمَحْيَايَ، وَمَمَاتِيْ لِلَّهِ رَبِّ الْعَالَمِيْنَ، لَا شَرِيْكَ لَهُ. وَبِذَالِكَ أُمِرْتُ وَأَنَا أَوَّلُ الْمُسْلِمِيْنَ. اَللَّهُمَّ أَنْتَ الْمَلِكُ لَا إِلَـٰهَ إِلَّا أَنْتَ. سُبْحَانَكَ وَبِحَمْدِكَ",
+              "transliteration": "Wajjahtu wajhiya lilladzii fathoros-samaawaati wal ardhi, haniifan musliman wa maa anaa minal musyrikiin. Inna sholaatii, wa nusukii, wa mahyaaya, wa mamaatii lillaahi robbil 'aalamiin, laa syariika lah. Wa bidzaalika umirtu wa anaa awwalul muslimiin. Allaahumma antal maliku laa ilaaha illaa anta. Subhaanaka wa bihamdik.",
+              "meaning": "Aku hadapkan wajahku kepada Tuhan Pencipta langit dan bumi, dengan memegang agama yang lurus, muslim dan aku tidak termasuk orang-orang yang musyrik. Sesungguhnya shalatku, ibadahku, hidupku dan matiku adalah untuk Allah, Tuhan semesta alam, tiada sekutu bagiNya. Demikianlah aku diperintah dan aku termasuk orang-orang yang pertama menjadi muslim. Ya Allah, Engkau adalah Raja, tidak ada sesembahan yang berhak disembah kecuali Engkau. Mahasuci Engkau dan Maha Terpuji."
+            }
+          ],
+          "reference": {
+            "text": "HR. An Nasa-i, 1/143. Dishahihkan Al Albani dalam Sifatu Shalatin Nabi 1/251.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": null,
+            "sourceReference": "http://muslim.or.id/fiqh-dan-muamalah/macam-–-macam-doa-istiftah.html",
+            "url": "http://muslim.or.id/fiqh-dan-muamalah/macam-–-macam-doa-istiftah.html"
+          }
+        },
+        {
+          "id": "istiftah-09",
+          "displayOrder": 9,
+          "sourceOrder": 9,
+          "subcategory": "Umum",
+          "segments": [
+            {
+              "id": "istiftah-09-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "إِنَّ صَلَاتِيْ، وَنُسُكِيْ، وَمَحْيَايَ، وَمَمَاتِيْ لِلَّهِ رَبِّ الْعَالَمِيْنَ، لَا شَرِيْكَ لَهُ. وَبِذَالِكَ أُمِرْتُ وَأَنَا مِنَ الْمُسْلِمِيْنَ. اَللَّهُمَّ اهْدِنِيْ لِأَحْسَنِ الْأَعْمَالِ وَأَحْسَنِ الْأَخْلَاقِ، لَا يَهْدِيْ لِأَحْسَنِهَا إِلَّا أَنْتَ. وَقِنِيْ سَيِّئَ الْأَعْمَالِ وَسَيِّئَ الْأَخْلَاقِ، لَا يَقِيْ سَيِّئَهَا إِلَّا أَنْتَ",
+              "transliteration": "Inna sholaatii, wa nusukii, wa mahyaaya, wa mamaatii lillaahi robbil 'aalamiin, laa syariika lah. Wa bidzaalika umirtu wa anaa minal muslimiin. Allaahummahdinii li-ahsanil a'maali wa ahsanil akhlaaqi, laa yahdii li-ahsanihaa illaa anta. Waqinii sayyi-al a'maali wa sayyi-al akhlaaqi, laa yaqii sayyi-ahaa illaa anta.",
+              "meaning": "Sesungguhnya shalatku, ibadahku, hidupku dan matiku adalah untuk Allah, Tuhan semesta alam, tiada sekutu bagiNya. Demikianlah aku diperintah dan aku termasuk orang-orang muslim. Ya Allah, tunjukkan aku pada amal yang terbaik dan akhlak yang terbaik, tidak ada yang bisa menunjukkan kepadanya kecuali Engkau. Jauhkan aku dari amal yang buruk dan akhlak yang buruk, tidak ada yang bisa menjauhkanku darinya kecuali Engkau."
+            }
+          ],
+          "reference": {
+            "text": "HR. An Nasa-i 1/141, Ad Daruquthni 112.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": null,
+            "sourceReference": "http://muslim.or.id/fiqh-dan-muamalah/macam-–-macam-doa-istiftah.html",
+            "url": "http://muslim.or.id/fiqh-dan-muamalah/macam-–-macam-doa-istiftah.html"
+          }
+        },
+        {
+          "id": "istiftah-malam-01",
+          "displayOrder": 10,
+          "sourceOrder": 10,
+          "subcategory": "Shalat malam",
+          "segments": [
+            {
+              "id": "istiftah-malam-01-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَللَّهُمَّ رَبَّ جِبْرَائِيْلَ، وَمِيْكَائِيْلَ، وَإِسْرَافِيْلَ فَاطِرَ السَّمَاوَاتِ وَاْلأَرْضِ، عَالِمَ الْغَيْبِ وَالشَّهَادَةِ، أَنْتَ تَحْكُمُ بَيْنَ عِبَادِكَ فِيْمَا كَانُوْا فِيْهِ يَخْتَلِفُوْنَ. اِهْدِنِيْ لِمَا اخْتُلِفَ فِيْهِ مِنَ الْحَقِّ بِإِذْنِكَ إِنَّكَ تَهْدِيْ مَنْ تَشَاءُ إِلَى صِرَاطٍ مُسْتَقِيْمٍ",
+              "transliteration": "Allaahumma robba jibroo-iil, wa miikaa-iil, wa isroofiil. Faathiros-samaawaati wal ardh. 'Aalimal ghoibi wasy-syahaadati. Anta tahkumu baina 'ibaadika fiimaa kaanuu fiihi yakhtalifuun. Ihdinii limakh-tulifa fiihi minal haqqi bi-idznik. Innaka tahdii man tasyaa-u ilaa shirootim-mustaqiim.",
+              "meaning": "Ya Allah, Tuhan Jibril, Mikail dan Israfil. Wahai Pencipta langit dan bumi. Wahai Tuhan yang mengetahui yang ghaib dan nyata. Engkau yang menjatuhkan hukum (untuk memutuskan) di antara hamba-hambaMu tentang apa yang mereka (orang-orang kristen dan yahudi) perselisihkan. Tunjukkanlah aku pada kebenaran dari apa yang dipertentangkan dengan seizin-Mu. Sesungguhnya Engkau menunjukkan pada jalan yang lurus bagi orang yang Engkau kehendaki."
+            }
+          ],
+          "reference": {
+            "text": "HR. Muslim 1/534.",
+            "evidenceType": "Hadis marfu’",
+            "note": "Doa istiftah ini sering dibaca Rasulullah Shalallahu 'alaihi wasallam ketika shalat malam, namun tetap masyru' juga dibaca pada shalat wajib dan shalat yang lain.",
+            "context": null,
+            "sourceReference": "Hisnul Muslim dan http://muslim.or.id/fiqh-dan-muamalah/macam-–-macam-doa-istiftah.html",
+            "url": "http://muslim.or.id/fiqh-dan-muamalah/macam-–-macam-doa-istiftah.html"
+          }
+        },
+        {
+          "id": "istiftah-malam-02",
+          "displayOrder": 11,
+          "sourceOrder": 11,
+          "subcategory": "Shalat malam",
+          "segments": [
+            {
+              "id": "istiftah-malam-02-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَللَّهُمَّ لَكَ الْحَمْدُ. أَنْتَ قَيِّمُ السَّمَاوَاتِ وَاْلأَرْضِ وَمَنْ فِيْهِنَّ. وَلَكَ الْحَمْدُ لَكَ مُلْكُ السَّمَاوَاتِ وَاْلأَرْضِ وَمَنْ فِيْهِنَّ. وَلَكَ الْحَمْدُ أَنْتَ نُوْرُ السَّمَاوَاتِ وَاْلأَرْضِ وَمَنْ فِيْهِنَّ. وَلَكَ الْحَمْدُ أَنْتَ مَلِكُ السَّمَاوَاتِ وَاْلأَرْضِ. وَلَكَ الْحَمْدُ، أَنْتَ الْحَقُّ، وَوَعْدُكَ الْحَقُّ، وَلِقَاؤُكَ حَقٌّ، وَقَوْلُكَ حَقٌّ، وَالْجَنَّةُ حَقٌّ، وَالنَّارُ حَقٌّ، وَالنَّبِيُّوْنَ حَقٌّ، وَمُحَمَّدٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ حَقٌّ، وَالسَّاعَةُ حَقٌّ. اَللَّهُمَّ لَكَ أَسْلَمْتُ، وَبِكَ آمَنْتُ، وَعَلَيْكَ تَوَكَّلْتُ، وَإِلَيْكَ أَنَبْتُ، وَبِكَ خَاصَمْتُ، وَإِلَيْكَ حَاكَمْتُ. فَاغْفِرْ لِيْ مَا قَدَّمْتُ وَمَا أَخَّرْتُ، وَمَا أَسْرَرْتُ وَمَا أَعْلَنْتُ. أَنْتَ الْمُقَدِّمُ وَأَنْتَ الْمُؤَخِّرُ. لاَ إِلَـٰهَ إِلَّا أَنْتَ",
+              "transliteration": "Allaahumma lakal hamdu. Anta qoyyimus-samaawaati wal ardhi wa man fiihinn. Wa lakal hamdu laka mulkus-samaawaati wal ardhi wa man fiihinn. Wa lakal hamdu anta nuurus-samaawaati wal ardhi wa man fiihinn. Wa lakal hamdu anta malikus-samaawaati wal ardh. Wa lakal hamdu, antal haqq, wa wa'dukal haqq, wa liqoo-ukal haqq, wa qouluka haqq, wal jannatu haqq, wan-naaru haqq, wan-nabiyyuuna haqq, wa muhammadun shollallaahu 'alaihi wa sallama haqq, was-saa'atu haqq. Allaahumma laka aslamtu, wa bika aamantu, wa 'alaika tawakkaltu, wa ilaika anabtu, wa bika khooshomtu, wa ilaika haakamtu. Faghfir lii maa qoddamtu wa maa akh-khortu, wa maa asrortu wa maa a'lantu. Antal muqoddimu wa antal mu-akh-khiru. Laa ilaaha illaa anta.",
+              "meaning": "Ya Allah, bagiMu segala puji. Engkau pemelihara langit dan bumi serta yang ada di dalamnya. BagiMu segala puji, bagiMu kerajaan langit dan bumi serta yang ada di dalamnya. BagiMu segala puji, Engkau cahaya langit dan bumi serta yang ada di dalamnya. BagiMu segala puji, Engkau penguasa langit dan bumi. BagiMu segala puji, Engkau benar, janjiMu benar, pertemuan denganMu adalah benar, firmanMu benar, adanya Surga adalah benar, adanya Neraka adalah benar, adanya para nabi adalah benar, nabi Muhammad adalah benar, adanya Kiamat adalah benar. Ya Allah, kepadaMu aku berserah diri, kepadaMu aku beriman, kepadaMu aku bertawakal, kepadaMu aku bertaubat, kepadaMu aku mengadu, kepadaMu aku berhukum. Maka ampunilah dosaku yang telah lalu dan yang akan datang, yang aku lakukan sembunyi-sembunyi maupun terang-terangan. Engkaulah Al Muqoddim (Dzat yang Terdahulu) dan Al Muakhir (Dzat yang Paling Akhir). Tidak ada sesembahan yang berhak disembah kecuali Engkau."
+            }
+          ],
+          "reference": {
+            "text": "HR. Bukhari 2/3, 2/4, 11/99, 13/366-367, 13/399, Muslim 2/184.",
+            "evidenceType": "Hadis marfu’",
+            "note": "Doa istiftah ini sering dibaca Rasulullah Shalallahu 'alaihi wasallam ketika shalat malam, namun tetap masyru' juga dibaca pada shalat wajib dan shalat yang lain.",
+            "context": null,
+            "sourceReference": "http://muslim.or.id/fiqh-dan-muamalah/macam-–-macam-doa-istiftah.html",
+            "url": "http://muslim.or.id/fiqh-dan-muamalah/macam-–-macam-doa-istiftah.html"
+          }
+        },
+        {
+          "id": "istiftah-malam-03",
+          "displayOrder": 12,
+          "sourceOrder": 12,
+          "subcategory": "Shalat malam",
+          "segments": [
+            {
+              "id": "istiftah-malam-03-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، وَتَبَارَكَ اسْمُكَ، وَتَعَالَى جَدُّكَ، وَلاَ إِلَـٰهَ غَيْرُكَ، لاَ إِلَـٰهَ إِلاَّ اللَّهُ (3×)، اَللَّهُ أَكْبَر كَبِيْرًا (3×)",
+              "transliteration": "Subhaanakallaahumma wa bihamdika, wa tabaarokasmuka, wa ta'aalaa jadduka, wa laa ilaaha ghairuka. Laa ilaaha illallaah (3x). Allaahu akbar kabiiroo (3x).",
+              "meaning": "Maha Suci Engkau ya Allah, aku memujiMu, Maha Berkah akan nama-Mu, Maha Tinggi kekayaan dan kebesaranMu, tidak ada sesembahan yang berhak disembah kecuali Engkau. Tidak ada sesembahan yang berhak disembah kecuali Allah (3x). Allah Maha Besar (3x)."
+            }
+          ],
+          "reference": {
+            "text": "HR. Abu Dawud no. 775 dari Abu Sa’id Al-Khudri. Dishahihkan dalam Shahih Abi Dawud.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": null,
+            "sourceReference": "http://asysyariah.com/shifat-shalat-nabi-bagian-5",
+            "url": "http://asysyariah.com/shifat-shalat-nabi-bagian-5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "taawudz",
+      "order": 2,
+      "name": "Ta’awudz Sebelum Al-Fatihah",
+      "publishedCount": 3,
+      "readings": [
+        {
+          "id": "taawudz-01",
+          "displayOrder": 1,
+          "sourceOrder": 1,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "taawudz-01-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "أَعُوذُ بِاللَّهِ السَّمِيعِ الْعَلِيمِ، مِنَ الشَّيْطَانِ الرَّجِيمِ، مِنْ هَمْزِهِ، وَنَفْخِهِ، وَنَفْثِهِ",
+              "transliteration": "A’uudzu billaahis-samii’il ‘aliim, minasy-syaithoonir-rojiim, min hamzihi, wa naf-khihi, wa naf-tsih.",
+              "meaning": "Aku berlindung kepada Allah Yang Maha Mendengar lagi Maha Mengetahui, dari setan yang terkutuk, dari kegilaannya, kesombongannya, dan nyanyiannya yang tercela."
+            }
+          ],
+          "reference": {
+            "text": "HR. Abu Daud no. 775 dan Tirmidzi no. 242. Al Hafizh Abu Thohir mengatakan sanad hadits ini hasan.",
+            "evidenceType": "Hadis marfu’",
+            "note": "Ta’awudz dibaca pada raka’at pertama, setelah membaca doa istiftah dan sebelum memulai membaca surat. Menurut pendapat yang lebih kuat, ta’awudz hanya ada pada rakaat pertama karena inilah yang dituntunkan dalam hadits yang membicarakan tentang perintah membaca ta’awudz.\n\nIbnu Taimiyah berkata, “Jika seseorang meninggalkan membaca ta’awudz di rakaat pertama, maka  hendaklah ia membacanya di raka’at kedua.” (Kitab Shifatish Shalah min Syarhil ‘Umdah karya Ibnu Taimiyah, hal. 97).",
+            "context": null,
+            "sourceReference": "https://rumaysho.com/7021-apakah-membaca-taawudz-dalam-shalat-pada-setiap-rakaat.html",
+            "url": "https://rumaysho.com/7021-apakah-membaca-taawudz-dalam-shalat-pada-setiap-rakaat.html"
+          }
+        },
+        {
+          "id": "taawudz-02",
+          "displayOrder": 2,
+          "sourceOrder": 2,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "taawudz-02-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "أَعُوْذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ، مِنْ هَمْزِهِ، وَنَفْخِهِ، وَنَفْثِهِ",
+              "transliteration": "A’uudzu billaahi minasy-syaithoonir-rojiim, min hamzihi, wa naf-khihi, wa naf-tsih.",
+              "meaning": "Aku berlindung kepada Allah dari setan yang terkutuk, dari kegilaannya, kesombongannya, dan nyanyiannya yang tercela."
+            }
+          ],
+          "reference": {
+            "text": "HR. Ibnu Abi Syaibah dalam Al-Mushannaf 1/92/1, Ath-Thabarani dalam Al-Kabir 1/78/2, dari Jubair ibnu Muth’im, dishahihkan dalam Irwa’ul Ghalil hadits no. 342.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": null,
+            "sourceReference": "http://asysyariah.com/shifat-shalat-nabi-bagian-6/",
+            "url": "http://asysyariah.com/shifat-shalat-nabi-bagian-6/"
+          }
+        },
+        {
+          "id": "taawudz-03",
+          "displayOrder": 3,
+          "sourceOrder": 3,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "taawudz-03-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+              "transliteration": "A’uudzu billaahi minasy-syaithoonir-rojiim.",
+              "meaning": "Aku berlindung kepada Allah dari setan yang terkutuk."
+            }
+          ],
+          "reference": {
+            "text": "QS. An-Nahl 16:98 sebagai dalil umum membaca ta’awudz sebelum membaca Al-Qur’an; bukan redaksi hadis khusus.",
+            "evidenceType": "Dalil Al-Qur’an",
+            "note": "Bisa pula mencukupkan ta’awudz dengan membaca: (bacaan di atas). Hal ini berdasarkan keumuman ayat yang memerintahkan membaca ta’awudz baik di dalam maupun di luar shalat ketika memulai membaca Al Qur’an, “Apabila kamu membaca Al Quran hendaklah kamu meminta perlindungan kepada Allah dari setan yang terkutuk.” (An Nahl: 98). (Lihat Kitab Shifatish Shalah, hal. 101).\n\n----",
+            "context": null,
+            "sourceReference": "Al-Qur’an, Surah An-Nahl ayat 98.",
+            "url": "https://legacy.quran.com/16/98"
+          }
+        }
+      ]
+    },
+    {
+      "id": "rukuk",
+      "order": 3,
+      "name": "Rukuk",
+      "publishedCount": 7,
+      "readings": [
+        {
+          "id": "rukuk-01",
+          "displayOrder": 1,
+          "sourceOrder": 1,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "rukuk-01-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "سُبْحَانَ رَبِّيَ الْعَظِيْمِ",
+              "transliteration": "Subhaana robbiyal 'azhiim (3x).",
+              "meaning": "Maha Suci Tuhanku Yang Maha Agung (3x)."
+            }
+          ],
+          "reference": {
+            "text": "HR. Penyusun kitab Sunan dan Imam Ahmad, lihat Shahih At-Tirmidzi 1/83.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": null,
+            "sourceReference": "Hisnul Muslim.",
+            "url": null
+          }
+        },
+        {
+          "id": "rukuk-03",
+          "displayOrder": 2,
+          "sourceOrder": 3,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "rukuk-03-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "سُبْحَانَكَ اللَّهُمَّ رَبَّنَا وَبِحَمْدِكَ، اَللَّهُمَّ اغْفِرْ لِيْ",
+              "transliteration": "Subhaanakallaahumma robbanaa wa bihamdika, allaahummagh-fir lii.",
+              "meaning": "Maha Suci Engkau ya Allah Tuhan kami, dan dengan pujian untukMu. Ya Allah, ampunilah aku."
+            }
+          ],
+          "reference": {
+            "text": "HR. Bukhari no. 817 dan Muslim no. 484.",
+            "evidenceType": "Hadis marfu’",
+            "note": "Dari ‘Aisyah, ia berkata, “Nabi shallallahu ‘alaihi wa sallam memperbanyak membaca ketika ruku’ dan sujud bacaan: (bacaan di atas). Beliau menerangkan maksud dari ayat Al Qur’an dengan bacaan tersebut.”\n\nYang dimaksud dengan ayat Al Qur’an dalam hadits di atas diterangkan dalam hadits ‘Uqbah bin ‘Amir, “Ketika turun ayat “fasabbih bismirobbikal ‘azhim”, Rasulullah shallallahu ‘alaihi wa sallam berkata, “Jadikan bacaan tersebut pada ruku’ kalian.” Lalu ketika turun ayat “sabbihisma robbikal a’laa”, Rasulullah shallallahu ‘alaihi wa sallam katakan, “Jadikanlah pada sujud kalian.” (HR. Abu Daud no. 869 dan Ibnu Majah no. 887. Al Hafizh Abu Thohir mengatakan bahwa sanad hadits ini shahih).",
+            "context": null,
+            "sourceReference": "https://rumaysho.com/7045-sifat-shalat-nabi-6.html",
+            "url": "https://rumaysho.com/7045-sifat-shalat-nabi-6.html"
+          }
+        },
+        {
+          "id": "rukuk-04",
+          "displayOrder": 3,
+          "sourceOrder": 4,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "rukuk-04-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "سُبْحَانَ ذِي الْجَبَرُوْتِ وَاْلمَلَكُوْتِ وَالْكِبْرِيَاءِ وَالْعَظَمَةِ",
+              "transliteration": "Subhaana dzil jabaruuti, wal malakuuti, wal kibriyaa-i, wal 'azhomah.",
+              "meaning": "Maha Suci (Allah) yang memiliki Keperkasaan, Kerajaan, Kebesaran dan Keagungan."
+            }
+          ],
+          "reference": {
+            "text": "HR. Abu Dawud 1/230, An-Nasai dan Ahmad. Dan sanadnya hasan.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": null,
+            "sourceReference": "Hisnul Muslim.",
+            "url": null
+          }
+        },
+        {
+          "id": "rukuk-05",
+          "displayOrder": 4,
+          "sourceOrder": 5,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "rukuk-05-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "سُبُّوْحٌ، قُدُّوْسٌ، رَبُّ الْمَلَائِكَةِ وَالرُّوْحِ",
+              "transliteration": "Subbuuhun, qudduusun, robbul malaa-ikati war-ruuh.",
+              "meaning": "Maha Suci, Maha Suci, Tuhannya para malaikat dan Jibril."
+            }
+          ],
+          "reference": {
+            "text": "HR. Muslim 1/353 dan Abu Dawud 1/230.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": null,
+            "sourceReference": "Hisnul Muslim.",
+            "url": null
+          }
+        },
+        {
+          "id": "rukuk-06",
+          "displayOrder": 5,
+          "sourceOrder": 6,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "rukuk-06-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَللَّهُمَّ لَكَ رَكَعْتُ، وَبِكَ آمَنْتُ، وَلَكَ أَسْلَمْتُ، خَشَعَ لَكَ سَمْعِيْ وَبَصَرِيْ وَمُخِّيْ وَعَظْمِيْ وَعَصَبِيْ وَمَا اسْتَقَلَّ بِهِ قَدَمِيْ",
+              "transliteration": "Allaahumma laka roka'tu, wa bika aamantu, wa laka aslamtu, khosya'a laka sam'ii, wa bashorii, wa mukh-khii, wa 'azhmii, wa 'ashobii, wa mastaqolla bihi qodamii.",
+              "meaning": "Ya Allah, untuk-Mu aku ruku', kepada-Mu aku beriman, kepada-Mu aku berserah diri. Menunduk kepada-Mu pendengaranku, penglihatanku, otakku, tulangku, sarafku, dan apa yang diangkat oleh telapak kakiku."
+            }
+          ],
+          "reference": {
+            "text": "HR. Muslim 1/534, begitu juga empat imam hadis, kecuali Ibnu Majah.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": null,
+            "sourceReference": "Hisnul Muslim.",
+            "url": null
+          }
+        },
+        {
+          "id": "rukuk-07",
+          "displayOrder": 6,
+          "sourceOrder": 7,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "rukuk-07-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اللَّهُمَّ لَكَ رَكَعْتُ، وَبِكَ آمَنْتُ، وَلَكَ أَسْلَمْتُ، أَنْتَ رَبِّي، خَشَعَ سَمْعِي، وَبَصَرِي، وَمُخِّي، وَعَظَمِي، وَعَصَبِي، وَمَا اسْتَقَلَّتْ بِهِ قَدَمِيْ، لِلَّهِ رَبِّ الْعَالَمِيْنَ",
+              "transliteration": "Allaahumma laka roka'tu, wa bika aamantu, wa laka aslamtu, anta robbii, khosya'a sam'ii, wa bashorii, wa mukh-khii, wa 'azhomii, wa 'ashobii, wa mastaqollat bihi qodamii, lillaahi robbil 'aalamiin.",
+              "meaning": "Ya Allah, untuk-Mu aku ruku', kepada-Mu aku beriman, kepada-Mu aku berserah diri. Engkau Rabbku. Menunduk pendengaranku, penglihatanku, otakku, tulangku, urat sarafku, dan apa yang diangkat oleh telapak kakiku, kepada Allah Rabb semesta alam."
+            }
+          ],
+          "reference": {
+            "text": "HR. ath-Thahawi, ad-Daraquthni, al-Baihaqi dan Ahmad (1/119).",
+            "evidenceType": "Hadis marfu’",
+            "note": "Dzikir di atas adalah potongan hadits Ali. Sanadnya sahih di atas syarat Muslim (al-Ashl, 2/664).",
+            "context": null,
+            "sourceReference": "http://asysyariah.com/sifat-shalat-nabi-bagian-ke-15",
+            "url": "http://asysyariah.com/sifat-shalat-nabi-bagian-ke-15"
+          }
+        },
+        {
+          "id": "rukuk-08",
+          "displayOrder": 7,
+          "sourceOrder": 8,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "rukuk-08-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَللَّهُمَّ لَكَ رَكَعْتُ، وَبِكَ آمَنْتُ، وَلَكَ أَسْلَمْتُ، وَعَلَيْكَ تَوَكَّلْتُ، أَنْتَ رَبِّي، خَشَعَ سَمْعِي، وَبَصَرِي، وَدَمِي، وَلَحْمِي، وَعَظَمِي، وَعَصَبِي، لِلَّهِ رَبِّ الْعَالِمِينَ",
+              "transliteration": "Allaahumma laka roka'tu, wa bika aamantu, wa laka aslamtu, wa 'alaika tawakkaltu, anta robbii, khosya'a sam'ii, wa bashorii, wa damii, wa lahmii, wa 'azhomii, wa 'ashobii, lillaahi robbil 'aalamiin.",
+              "meaning": "Ya Allah, untuk-Mu aku ruku', kepada-Mu aku beriman, kepada-Mu aku berserah diri, dan kepada-Mu aku bertawakal. Engkau Rabbku. Menunduk pendengaranku, penglihatanku, darahku, dagingku, tulangku, dan urat sarafku, kepada Allah Rabb semesta alam."
+            }
+          ],
+          "reference": {
+            "text": "HR. an-Nasa'i no. 1051, disahihkan dalam Shahih Sunan an-Nasa'i.",
+            "evidenceType": "Hadis marfu’",
+            "note": "Dzikir ini disebutkan dalam hadits Jabir bin Abdillah.",
+            "context": null,
+            "sourceReference": "http://asysyariah.com/sifat-shalat-nabi-bagian-ke-15",
+            "url": "http://asysyariah.com/sifat-shalat-nabi-bagian-ke-15"
+          }
+        }
+      ]
+    },
+    {
+      "id": "itidal",
+      "order": 4,
+      "name": "I‘tidal",
+      "publishedCount": 12,
+      "readings": [
+        {
+          "id": "itidal-01",
+          "displayOrder": 1,
+          "sourceOrder": 1,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "itidal-01-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "رَبَّنَا وَلَكَ الْحَمْدُ",
+              "transliteration": "Robbanaa wa lakal hamdu.",
+              "meaning": "Wahai Rabb kami, bagi-Mu segala puji."
+            }
+          ],
+          "reference": {
+            "text": "HR. al-Bukhari no. 732 dan Muslim no. 866 dari Abu Hurairah.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": "Ada beberapa wirid yang pernah dibaca oleh Rasulullah saat berdiri i’tidal. Suatu saat Rasulullah membaca satu dzikir, di saat lain membaca dzikir yang lain pula.\n\nRasulullah membaca:",
+            "sourceReference": "http://asysyariah.com/bacaan-saat-itidal-sifat-shalat-nabi-bagian-ke-17",
+            "url": "http://asysyariah.com/bacaan-saat-itidal-sifat-shalat-nabi-bagian-ke-17"
+          }
+        },
+        {
+          "id": "itidal-02",
+          "displayOrder": 2,
+          "sourceOrder": 2,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "itidal-02-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "رَبَّنَا لَكَ الْحَمْدُ",
+              "transliteration": "Robbanaa lakal hamdu.",
+              "meaning": "Wahai Rabb kami, bagi-Mu segala puji."
+            }
+          ],
+          "reference": {
+            "text": "HR. Bukhari no. 789.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": "Rasulullah terkadang membacanya tanpa huruf wawu:",
+            "sourceReference": "http://asysyariah.com/bacaan-saat-itidal-sifat-shalat-nabi-bagian-ke-17",
+            "url": "http://asysyariah.com/bacaan-saat-itidal-sifat-shalat-nabi-bagian-ke-17"
+          }
+        },
+        {
+          "id": "itidal-03",
+          "displayOrder": 3,
+          "sourceOrder": 3,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "itidal-03-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَللَّهُمَّ رَبَّنَا وَلَكَ الْحَمْدُ",
+              "transliteration": "Allaahumma robbanaa wa lakal hamdu.",
+              "meaning": "Ya Allah, Rabb kami, bagi-Mu segala puji."
+            }
+          ],
+          "reference": {
+            "text": "HR. al-Bukhari no. 795 dari Abu Hurairah.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": "Rasulullah terkadang menambahkan kata 'Allaahumma' di depannya:",
+            "sourceReference": "http://asysyariah.com/bacaan-saat-itidal-sifat-shalat-nabi-bagian-ke-17",
+            "url": "http://asysyariah.com/bacaan-saat-itidal-sifat-shalat-nabi-bagian-ke-17"
+          }
+        },
+        {
+          "id": "itidal-04",
+          "displayOrder": 4,
+          "sourceOrder": 4,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "itidal-04-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَللَّهُمَّ رَبَّنَا لَكَ الْحَمْدُ",
+              "transliteration": "Allaahumma robbanaa lakal hamdu.",
+              "meaning": "Ya Allah, Rabb kami, bagi-Mu segala puji."
+            }
+          ],
+          "reference": {
+            "text": "HR. Muslim no. 902 dari Abu Musa al-Asy’ari.",
+            "evidenceType": "Hadis marfu’",
+            "note": "Faedah:\n\nAl-Imam an-Nawawi berkata, “Terdapat hadits-hadits sahih yang menetapkan adanya huruf wawu dan tidak dibacanya huruf wawu. Riwayat yang banyak menyebutkan kedua-duanya. Pendapat yang terpilih adalah keduanya dibolehkan, tanpa ada yang perlu ditarjih (dikuatkan).” (al-Minhaj, 4/342).\n\nYang utama dilakukan dalam hal ini adalah sekali waktu mengucapkan dzikir yang ini, dan di waktu lain mengucapkan dzikir yang lain lagi, demikian seterusnya. Melakukan keragaman demikian akan memberi tiga faedah:\n\n• Menjaga sunnah.\n\n• Mengikuti sunnah.\n\n• Menghadirkan hati/mengingatkannya.\n\n(Asy-Syarhul Mumti’, 3/98).",
+            "context": "Rasulullah terkadang membacanya tanpa huruf wawu:",
+            "sourceReference": "http://asysyariah.com/bacaan-saat-itidal-sifat-shalat-nabi-bagian-ke-17",
+            "url": "http://asysyariah.com/bacaan-saat-itidal-sifat-shalat-nabi-bagian-ke-17"
+          }
+        },
+        {
+          "id": "itidal-05",
+          "displayOrder": 5,
+          "sourceOrder": 5,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "itidal-05-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "مِلْءَ السَّمَاوَاتِ وَمِلْءَ الْأَرْضِ وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ بَعْدُ",
+              "transliteration": "Mil-as-samaawaati wa mil-al ardhi, wa mil-a maa syi'ta min syai-in ba'du.",
+              "meaning": "Sepenuh langit dan sepenuh bumi, dan sepenuh apa yang Engkau inginkan dari sesuatu setelahnya."
+            }
+          ],
+          "reference": {
+            "text": "HR. Muslim no. 1067 dari hadits Abdullah ibnu Abi Aufa.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": "Terkadang setelah mengucapkan salah satu dari doa 1-4 di atas, Rasulullah menambahkan di belakangnya dengan:",
+            "sourceReference": "http://asysyariah.com/bacaan-saat-itidal-sifat-shalat-nabi-bagian-ke-17",
+            "url": "http://asysyariah.com/bacaan-saat-itidal-sifat-shalat-nabi-bagian-ke-17"
+          }
+        },
+        {
+          "id": "itidal-06",
+          "displayOrder": 6,
+          "sourceOrder": 6,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "itidal-06-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "مِلْءَ السَّمَاوَاتِ وَمِلْءَ الْأَرْضِ وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ بَعْدُ، أَهْلَ الثَّنَاءِ وَالْمَجْدِ، لَا مَانِعَ لِمَا أَعْطَيْتَ، وَلَا مُعْطِيَ لِمَا مَنَعْتَ، وَلَا يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَدُّ",
+              "transliteration": "Mil-as-samaawaati wa mil-al ardhi, wa mil-a maa syi'ta min syai-in ba'du, ahlats-tsanaa-i wal majdi, laa maani'a limaa a'thoita, wa laa mu'thiya limaa mana'ta, wa laa yanfa'u dzal jaddi minkal jadd.",
+              "meaning": "Sepenuh langit dan sepenuh bumi, dan sepenuh apa yang Engkau inginkan dari sesuatu setelahnya. Engkau adalah Dzat yang berhak mendapat pujian dan kemuliaan. Tidak ada yang bisa menahan apa yang Engkau berikan, dan tidak ada yang bisa memberikan apa yang Engkau tahan. Tidak bermanfaat bagi-Mu kemuliaan/kedudukan orang yang memiliki kemuliaan."
+            }
+          ],
+          "reference": {
+            "text": "HR. Muslim, Nasai dan Ibn Hibban.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": "Terkadang dengan:",
+            "sourceReference": "https://carasholat.com/586-bacaan-itidal-dalam-sholat.html",
+            "url": "https://carasholat.com/586-bacaan-itidal-dalam-sholat.html"
+          }
+        },
+        {
+          "id": "itidal-07",
+          "displayOrder": 7,
+          "sourceOrder": 7,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "itidal-07-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "مِلْءَ السَّمَاوَاتِ وَمِلْءَ الْأَرْضِ وَمَا بَيْنَهُمَا وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ بَعْدُ، أَهْلَ الثَّنَاءِ وَالْمَجْدِ، لَا مَانِعَ لِمَا أَعْطَيْتَ، وَلَا مُعْطِيَ لِمَا مَنَعْتَ، وَلَا يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَدُّ",
+              "transliteration": "Mil-as-samaawaati wa mil-al ardhi wa maa bainahumaa, wa mil-a maa syi'ta min syai-in ba'du, ahlats-tsanaa-i wal majdi, laa maani'a limaa a'thoita, wa laa mu'thiya limaa mana'ta, wa laa yanfa'u dzal jaddi minkal jadd.",
+              "meaning": "Sepenuh langit dan sepenuh bumi, dan sepenuh apa yang ada di antara keduanya, dan sepenuh apa yang Engkau inginkan dari sesuatu setelahnya. Engkau adalah Dzat yang berhak mendapat pujian dan kemuliaan. Tidak ada yang bisa menahan apa yang Engkau berikan, dan tidak ada yang bisa memberikan apa yang Engkau tahan. Tidak bermanfaat bagi-Mu kemuliaan/kedudukan orang yang memiliki kemuliaan."
+            }
+          ],
+          "reference": {
+            "text": "HR. Muslim no. 1072 dari Ibnu Abbas.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": "Terkadang dengan:",
+            "sourceReference": "http://asysyariah.com/bacaan-saat-itidal-sifat-shalat-nabi-bagian-ke-17",
+            "url": "http://asysyariah.com/bacaan-saat-itidal-sifat-shalat-nabi-bagian-ke-17"
+          }
+        },
+        {
+          "id": "itidal-08",
+          "displayOrder": 8,
+          "sourceOrder": 8,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "itidal-08-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "مِلْءَ السَّمَاوَاتِ وَمِلْءَ اْلأَرْضِ وَمَا بَيْنَهُمَا، وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ بَعْدُ، أَهْلَ الثَّنَاءِ وَالْمَجْدِ، أَحَقُّ مَا قَالَ الْعَبْدُ، وَكُلُّنَا لَكَ عَبْدٌ، اَللَّهُمَّ لَا مَانِعَ لِمَا أَعْطَيْتَ، وَلَا مُعْطِيَ لِمَا مَنَعْتَ، وَلَا يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَدُّ",
+              "transliteration": "Mil-as-samaawaati wa mil-al ardhi wa maa bainahumaa, wa mil-a maa syi'ta min syai-in ba'du, ahlats-tsanaa-i wal majdi, ahaqqu maa qoolal 'abdu, wa kullunaa laka 'abdun, allaahumma laa maani'a limaa a'thoita, wa laa mu'thiya limaa mana'ta, wa laa yanfa'u dzal jaddi minkal jadd.",
+              "meaning": "Sepenuh langit dan sepenuh bumi, dan sepenuh apa yang ada di antara keduanya, dan sepenuh apa yang Engkau inginkan dari sesuatu setelahnya. Engkau adalah Dzat yang berhak mendapat pujian dan kemuliaan. (Ucapan ini) yang paling pantas diucapkan seorang hamba, dan semua kami adalah hamba-Mu semata. Ya Allah, tidak ada yang bisa menahan apa yang Engkau berikan, dan tidak ada yang bisa memberikan apa yang Engkau tahan. Tidak bermanfaat kekayaan bagi orang yang memilikinya (kecuali iman dan amal shalihnya), hanya dariMu kekayaan itu."
+            }
+          ],
+          "reference": {
+            "text": "HR. Muslim 1/346.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": "Terkadang dengan:",
+            "sourceReference": "Hisnul Muslim.",
+            "url": null
+          }
+        },
+        {
+          "id": "itidal-09",
+          "displayOrder": 9,
+          "sourceOrder": 9,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "itidal-09-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "مِلْءَ السَّمَاوَاتِ وَالْأَرْضِ، وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ بَعْدُ، أَهْلَ الثَّنَاءِ وَالْمَجْدِ، أَحَقُّ مَا قَالَ الْعَبْدُ، وَكُلُّنَا لَكَ عَبْدٌ، اَللَّهُمَّ لَا مَانِعَ لِمَا أَعْطَيْتَ، وَلَا مُعْطِيَ لِمَا مَنَعْتَ، وَلَا يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَدُّ",
+              "transliteration": "Mil-as-samaawaati wal ardhi, wa mil-a maa syi'ta min syai-in ba'du, ahlats-tsanaa-i wal majdi, ahaqqu maa qoolal 'abdu, wa kullunaa laka 'abdun, allaahumma laa maani'a limaa a'thoita, wa laa mu'thiya limaa mana'ta, wa laa yanfa'u dzal jaddi minkal jadd.",
+              "meaning": "Sepenuh langit dan sepenuh bumi, dan sepenuh apa yang Engkau inginkan dari sesuatu setelahnya. Engkau adalah Dzat yang berhak mendapat pujian dan kemuliaan. (Ucapan ini) yang paling pantas diucapkan seorang hamba, dan semua kami adalah hamba-Mu semata. Ya Allah, tidak ada yang bisa menahan apa yang Engkau berikan, dan tidak ada yang bisa memberikan apa yang Engkau tahan. Tidak bermanfaat bagi-Mu kemuliaan/kedudukan orang yang memiliki kemuliaan."
+            }
+          ],
+          "reference": {
+            "text": "HR. Muslim no. 1071 dari Abu Sa’id al-Khudri.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": "Terkadang dengan:",
+            "sourceReference": "http://asysyariah.com/bacaan-saat-itidal-sifat-shalat-nabi-bagian-ke-17",
+            "url": "http://asysyariah.com/bacaan-saat-itidal-sifat-shalat-nabi-bagian-ke-17"
+          }
+        },
+        {
+          "id": "itidal-10",
+          "displayOrder": 10,
+          "sourceOrder": 10,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "itidal-10-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "رَبَّنَا وَلَكَ الْحَمْدُ، حَمْدًا كَثِيْرًا طَيِّبًا مُبَارَكًا فِيْهِ",
+              "transliteration": "Robbanaa wa lakal hamdu, hamdan katsiron thoyyiban mubaarokan fiihi.",
+              "meaning": "Wahai Rabb kami, bagi-Mu segala puji. Pujian yang banyak, yang baik, yang diberkahi di dalamnya."
+            }
+          ],
+          "reference": {
+            "text": "HR. al-Bukhari no. 799 dari hadits Rifa’ah ibnu Rafi’.",
+            "evidenceType": "Sunnah taqririyah",
+            "note": "Pernah seseorang yang shalat di belakang Rasulullah membaca: (doa di atas) saat bangkit dari ruku’ setelah ucapan “Sami'allaahu liman hamidah”. Selesai dari shalat, Rasulullah bertanya, “Siapa yang mengucapkannya tadi?” Orang itu berkata, “Saya, wahai Rasulullah.” Rasulullah bersabda, “Sungguh aku melihat lebih dari 30 malaikat berlomba-lomba, siapa di antara mereka yang paling dahulu mencatatnya.”",
+            "context": null,
+            "sourceReference": "http://asysyariah.com/bacaan-saat-itidal-sifat-shalat-nabi-bagian-ke-17",
+            "url": "http://asysyariah.com/bacaan-saat-itidal-sifat-shalat-nabi-bagian-ke-17"
+          }
+        },
+        {
+          "id": "itidal-11",
+          "displayOrder": 11,
+          "sourceOrder": 11,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "itidal-11-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "رَبَّنَا وَلَكَ الْحَمْدُ، حَمْدًا كَثِيْرًا طَيِّبًا مُبَارَكًا فِيْهِ، مُبَارَكًا عَلَيْهِ، كَمَا يُحِبُّ رَبُّنَا وَيَرْضَى",
+              "transliteration": "Robbanaa wa lakal hamdu, hamdan katsiron thoyyiban mubaarokan fiihi, mubaarokan 'alaihi kamaa yuhibbu robbunaa wa yardhoo.",
+              "meaning": "Wahai Rabb kami, bagi-Mu segala puji. Pujian yang banyak, yang baik, yang diberkahi di dalamnya, yang diberkahi di atasnya, sebagaimana Rabb kami senang dan ridha."
+            }
+          ],
+          "reference": {
+            "text": "HR. At-Tirmidzi no. 404 dan An-Nasa’i no. 931; At-Tirmidzi menilainya hasan.",
+            "evidenceType": "Sunnah taqririyah",
+            "note": "Ada sahabat yang membaca ini ketika i’tidal. Selesai shalat, Nabi shallallahu ‘alaihi wa sallam bertanya, “Siapa yang tadi membaca doa i’tidal tersebut?” Salah seorang sahabat mengaku. Nabi shallallahu ‘alaihi wa sallam bersabda, “Saya melihat ada 30 lebih malaikat yang berebut mengambil bacaan ini. Siapa di antara mereka yang paling cepat mencatatnya.”",
+            "context": null,
+            "sourceReference": "https://carasholat.com/586-bacaan-itidal-dalam-sholat.html",
+            "url": "https://dorar.net/h/2Vq8HM07?osoul=1"
+          }
+        },
+        {
+          "id": "itidal-12",
+          "displayOrder": 12,
+          "sourceOrder": 12,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "itidal-12-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "لِرَبِّيَ الْحَمْدُ، لِرَبِّيَ الْحَمْدُ",
+              "transliteration": "Li robbiyal hamdu, li robbiyal hamdu.",
+              "meaning": "Hanya untuk Rabb-ku segala puji, hanya untuk Rabb-ku segala puji."
+            }
+          ],
+          "reference": {
+            "text": "HR. Abu Dawud no. 874 dan yang lainnya dari hadits Hudzaifah, dinyatakan sahih dalam Shahih Sunan Abi Dawud dan al-Irwa’ no. 335.",
+            "evidenceType": "Hadis marfu’",
+            "note": "Beliau terus mengulang-ulangi ucapan ini, hingga lama berdirinya saat itu sama dengan lama ruku’nya, padahal lama ruku’ beliau mendekati lamanya beliau berdiri pada rakaat yang pertama, yang beliau membaca surat al-Baqarah.",
+            "context": "Sekali waktu dalam shalat malam, Rasulullah mengucapkan:",
+            "sourceReference": "http://asysyariah.com/bacaan-saat-itidal-sifat-shalat-nabi-bagian-ke-17 dan http://carasholat.com/bacaan-itidal-dalam-sholat",
+            "url": "http://asysyariah.com/bacaan-saat-itidal-sifat-shalat-nabi-bagian-ke-17\nhttp://carasholat.com/bacaan-itidal-dalam-sholat"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sujud",
+      "order": 5,
+      "name": "Sujud",
+      "publishedCount": 10,
+      "readings": [
+        {
+          "id": "sujud-01",
+          "displayOrder": 1,
+          "sourceOrder": 1,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "sujud-01-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "سُبْحَانَ رَبِّيَ اْلأَعْلَى",
+              "transliteration": "Subhaana robbiyal a'laa (3x).",
+              "meaning": "Maha Suci Tuhanku Yang Maha Tinggi (dari segala kekurangan dan hal yang tidak layak) (3x)."
+            }
+          ],
+          "reference": {
+            "text": "HR. Para penyusun kitab Sunan dan Imam Ahmad. Lihat Shahih At-Tirmidzi 1/83.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": null,
+            "sourceReference": "Hisnul Muslim.",
+            "url": null
+          }
+        },
+        {
+          "id": "sujud-03",
+          "displayOrder": 2,
+          "sourceOrder": 3,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "sujud-03-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "سُبْحَانَكَ اللَّهُمَّ رَبَّنَا وَبِحَمْدِكَ، اَللَّهُمَّ اغْفِرْ لِيْ",
+              "transliteration": "Subhaanakallaahumma robbanaa wa bihamdika, allaahummagh-fir lii.",
+              "meaning": "Maha Suci Engkau ya Allah Tuhan kami, dan dengan pujian untukMu. Ya Allah, ampunilah aku."
+            }
+          ],
+          "reference": {
+            "text": "HR. Bukhari no. 817 dan Muslim no. 484.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": null,
+            "sourceReference": "https://rumaysho.com/7125-sifat-shalat-nabi-10-cara-sujud.html",
+            "url": "https://rumaysho.com/7125-sifat-shalat-nabi-10-cara-sujud.html"
+          }
+        },
+        {
+          "id": "sujud-04",
+          "displayOrder": 3,
+          "sourceOrder": 4,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "sujud-04-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "سُبْحَانَ ذِي الْجَبَرُوْتِ وَاْلمَلَكُوْتِ وَالْكِبْرِيَاءِ وَالْعَظَمَةِ",
+              "transliteration": "Subhaana dzil jabaruuti, wal malakuuti, wal kibriyaa-i, wal 'azhomah.",
+              "meaning": "Maha Suci (Allah) yang memiliki Keperkasaan, Kerajaan, Kebesaran dan Keagungan."
+            }
+          ],
+          "reference": {
+            "text": "HR. Abu Dawud 1/230, An-Nasai dan Ahmad. Dinyatakan shahih oleh Al-Albani dalam Shahih Abi Dawud 1/166.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": null,
+            "sourceReference": "Hisnul Muslim.",
+            "url": null
+          }
+        },
+        {
+          "id": "sujud-05",
+          "displayOrder": 4,
+          "sourceOrder": 5,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "sujud-05-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "سُبُّوْحٌ، قُدُّوْسٌ، رَبُّ الْمَلَائِكَةِ وَالرُّوْحِ",
+              "transliteration": "Subbuuhun, qudduusun, robbul malaa-ikati war-ruuh.",
+              "meaning": "Maha Suci, Maha Suci, Tuhannya para malaikat dan Jibril."
+            }
+          ],
+          "reference": {
+            "text": "HR. Muslim 1/533, lihat no. 35.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": null,
+            "sourceReference": "Hisnul Muslim.",
+            "url": null
+          }
+        },
+        {
+          "id": "sujud-06",
+          "displayOrder": 5,
+          "sourceOrder": 6,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "sujud-06-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَللَّهُمَّ اغْفِرْ لِيْ ذَنْبِيْ كُلَّهُ، دِقَّهُ وَجِلَّهُ، وَأَوَّلَهُ وَآخِرَهُ، وَعَلاَنِيَّتَهُ وَسِرَّهُ",
+              "transliteration": "Allaahummagh-fir lii dzanbii kullahu, diqqohu wa jillahu, wa awwalahu wa aakhirohu, wa 'alaaniyyatahu wa sirroh.",
+              "meaning": "Ya Allah, ampunilah seluruh dosaku yang kecil dan besar, yang telah lewat dan yang akan datang, yang kulakukan dengan terang-terangan dan yang tersembunyi."
+            }
+          ],
+          "reference": {
+            "text": "HR. Muslim 1/350.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": null,
+            "sourceReference": "Hisnul Muslim.",
+            "url": null
+          }
+        },
+        {
+          "id": "sujud-07",
+          "displayOrder": 6,
+          "sourceOrder": 7,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "sujud-07-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَللَّهُمَّ لَكَ سَجَدْتُ، وَبِكَ آمَنْتُ، وَلَكَ أَسْلَمْتُ، سَجَدَ وَجْهِيْ لِلَّذِيْ خَلَقَهُ وَصَوَّرَهُ، وَشَقَّ سَمْعَهُ وَبَصَرَهُ، تَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِيْنَ",
+              "transliteration": "Allaahumma laka sajadtu, wa bika aamantu, wa laka aslamtu, sajada wajhii lilladzii kholaqohu wa showwarohu, wa syaqqo sam’ahu wa bashorohu, tabaarokallaahu ahsanul khooliqiin.",
+              "meaning": "Ya Allah, hanya kepada-Mu aku bersujud, hanya kepada-Mu aku beriman, dan hanya kepada-Mu aku berserah diri. Wajahku bersujud kepada Zat yang menciptakan dan membentuknya, serta membukakan pendengaran dan penglihatannya. Mahasuci Allah, sebaik-baik Pencipta."
+            }
+          ],
+          "reference": {
+            "text": "HR. Muslim no. 771 dari Ali bin Abi Thalib.",
+            "evidenceType": "Hadis marfu’",
+            "note": "Dari hadits Ali bin Abi Thalib radhiyallahu ‘anhu. Tambahan yang pertama yaitu lafal ‘wa anta robbii’ dikeluarkan oleh ath-Thahawi (137/1) dan at-Tirmidzi no. 3423 serta ad-Daraquthni (30). Al-Imam Albani rahimahullah dalam Shahih Sunan at-Tirmidzi mengatakan hadits ini hasan sahih. Tambahan kedua dari salah satu riwayat Muslim.",
+            "context": null,
+            "sourceReference": "Sahih Muslim no. 771.",
+            "url": "https://sunnah.com/muslim:771"
+          }
+        },
+        {
+          "id": "sujud-08",
+          "displayOrder": 7,
+          "sourceOrder": 8,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "sujud-08-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَللَّهُمَّ اجْعَلْ فِي قَلْبِي نُوْرًا، وَفِي لِسَانِي نُوْرًا، وَاجْعَلْ فِي سَمْعِي نُورًا، وَاجْعَلْ فِي بَصَرِيْ نُوْرًا، وَاجْعَلْ مِنْ تَحْتِي نُوْرًا، وَاجْعَلْ مِنْ فَوْقِي نُوْرًا، وَعَنْ يَمِيْنِي نُوْرًا، وَعَنْ يَسَارِي نُوْرًا، وَاجْعَلْ أَمَامِي نُوْرًا، وَاجْعَلْ خَلْفِي نُوْرًا، وَاجْعَلْ فِي نَفْسِيْ نُوْرًا، وَأَعْظِمْ لِي نُوْرًا",
+              "transliteration": "Allaahummaj'al fii qolbii nuuron, wa fii lisaanii nuuron, waj'al fii sam'ii nuuron, waj'al fii bashorii nuuron, waj'al min tahtii nuuron, waj'al min fauqii nuuron, wa 'an yamiinii nuuron, wa 'an yasaarii nuuron, waj'al amaamii nuuron, waj'al kholfii nuuron, waj'al fii nafsii nuuron, wa a'zhim lii nuuron.",
+              "meaning": "Ya Allah, jadikanlah cahaya dalam hatiku, cahaya dalam lisanku. Jadikanlah cahaya dalam pendengaranku. Jadikanlah cahaya pada penglihatanku. Jadikanlah cahaya dari bawahku. Jadikanlah cahaya dari atasku, cahaya dari kananku dan cahaya dari kiriku. Jadikanlah cahaya di depanku. Jadikanlah cahaya di belakangku. Jadikanlah cahaya pada jiwaku, dan besarkanlah cahaya untukku."
+            }
+          ],
+          "reference": {
+            "text": "HR. Muslim no. 1791 dan an-Nasa’i no. 1121.",
+            "evidenceType": "Hadis marfu’",
+            "note": "Hadits Ibnu Abbas radhiyallahu ‘anhuma. Tatkala ia bermalam di rumah bibinya, Maimunah bintu al-Harits radhiyallahu ‘anha di saat giliran Rasulullah Shallallahu ‘alaihi wasallam di rumahnya. Ibnu Abbas melihat Rasulullah Shallallahu ‘alaihi wasallam bangkit untuk menunaikan hajatnya. Setelahnya beliau berwudhu seperti wudhu untuk shalat. Kemudian beliau mengerjakan shalat dan di sujudnya beliau membaca: (doa di atas).\n\nNamun, riwayat yang lain menyebutkan bahwa Rasulullah Shallallahu ‘alaihi wasallam mengucapkan zikir yang hampir sama dengan zikir di atas setelah selesai shalat yakni saat berdoa seperti dalam riwayat Muslim no. 1796, sehingga terkadang beliau melakukan yang ini (membacanya dalam sujud), di kali lain yang itu (saat berdoa setelah shalat lail).",
+            "context": null,
+            "sourceReference": "http://asysyariah.com/seputar-hukum-islam-tata-cara-sujud",
+            "url": "http://asysyariah.com/seputar-hukum-islam-tata-cara-sujud"
+          }
+        },
+        {
+          "id": "sujud-09",
+          "displayOrder": 8,
+          "sourceOrder": 9,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "sujud-09-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، لاَ إِلَـٰهَ إِلاَّ أَنْتَ",
+              "transliteration": "Subhaanakallaahumma wa bihamdika, laa ilaaha illaa anta.",
+              "meaning": "Mahasuci Engkau ya Allah, dan dengan pujian untuk-Mu, tidak ada sesembahan yang berhak disembah kecuali Engkau."
+            }
+          ],
+          "reference": {
+            "text": "HR. Muslim no. 1089.",
+            "evidenceType": "Hadis marfu’",
+            "note": "Aisyah radhiyallahu ‘anha menceritakan, tatkala ia kehilangan Rasulullah Shallallahu ‘alaihi wasallam di suatu malam dari tempat tidurnya, dia menyangka beliau pergi keluar. Mulailah Aisyah meraba-raba dalam kegelapan, ternyata didapatinya Rasulullah Shallallahu ‘alaihi wasallam sedang ruku atau sujud dan membaca: (dzikir di atas).",
+            "context": null,
+            "sourceReference": "http://asysyariah.com/seputar-hukum-islam-tata-cara-sujud",
+            "url": "http://asysyariah.com/seputar-hukum-islam-tata-cara-sujud"
+          }
+        },
+        {
+          "id": "sujud-10",
+          "displayOrder": 9,
+          "sourceOrder": 10,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "sujud-10-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَللَّهُمَّ اغْفِرْ لِي مَا أَسْرَرْتُ وَمَا أَعْلَنْتُ",
+              "transliteration": "Allaahummagh-fir lii maa asrortu wa maa a'lantu.",
+              "meaning": "Ya Allah, ampunilah aku, apa yang aku rahasiakan dan aku tampakkan (dari kejelekan/dosa)."
+            }
+          ],
+          "reference": {
+            "text": "HR. an-Nasa’i no. 1124, dinyatakan sahih dalam Shahih Sunan an-Nasa’i.",
+            "evidenceType": "Hadis marfu’",
+            "note": "Dari hadits Aisyah radhiyallahu ‘anha.",
+            "context": null,
+            "sourceReference": "http://asysyariah.com/seputar-hukum-islam-tata-cara-sujud",
+            "url": "http://asysyariah.com/seputar-hukum-islam-tata-cara-sujud"
+          }
+        },
+        {
+          "id": "sujud-11",
+          "displayOrder": 10,
+          "sourceOrder": 11,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "sujud-11-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَللَّهُمَّ إِنِّيْ أَعُوْذُ بِرِضَاكَ مِنْ سَخَطِكَ، وَبِمُعَافَاتِكَ مِنْ عُقُوْبَتِكَ، وَأَعُوْذُ بِكَ مِنْكَ، لاَ أُحْصِيْ ثَنَاءً عَلَيْكَ، أَنْتَ كَمَا أَثْنَيْتَ عَلَى نَفْسِكَ",
+              "transliteration": "Allaahumma innii a'uudzu biridhooka min sakhothika, wa bimu'aafaatika min 'uquubatika, wa a'uudzu bika minka, laa uhshii tsanaa-an 'alaika, anta kamaa ats-naita 'alaa nafsik.",
+              "meaning": "Ya Allah, sesungguhnya aku berlindung dengan keridhaan-Mu dari kemarahanMu, dan dengan keselamatanMu dari hukumanMu, dan aku berlindung kepadaMu dari siksaMu. Aku tidak mampu menghitung pujian dan sanjungan kepadaMu, Engkau adalah sebagaimana yang Engkau sanjungkan kepada diriMu sendiri."
+            }
+          ],
+          "reference": {
+            "text": "HR. Muslim 1/532.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": null,
+            "sourceReference": "Hisnul Muslim.",
+            "url": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "duduk_antara_dua_sujud",
+      "order": 6,
+      "name": "Duduk Antara Dua Sujud",
+      "publishedCount": 4,
+      "readings": [
+        {
+          "id": "duduk-dua-sujud-01",
+          "displayOrder": 1,
+          "sourceOrder": 1,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "duduk-dua-sujud-01-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "رَبِّ اغْفِرْ لِيْ، رَبِّ اغْفِرْ لِيْ",
+              "transliteration": "Robbigh-fir lii, robbigh-fir lii.",
+              "meaning": "Wahai Tuhanku, ampunilah dosaku, wahai Tuhanku, ampunilah dosaku."
+            }
+          ],
+          "reference": {
+            "text": "HR. Abu Dawud 1/231, lihat Shahih Ibnu Majah 1/148.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": null,
+            "sourceReference": "Hisnul Muslim.",
+            "url": null
+          }
+        },
+        {
+          "id": "duduk-dua-sujud-02",
+          "displayOrder": 2,
+          "sourceOrder": 2,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "duduk-dua-sujud-02-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَللَّهُمَّ اغْفِرْ لِي، وَارْحَمْنِي، (وَاجْبُرْنِي)، (وَارْفَعْنِي)، وَاهْدِنِي، (وَعَافِنِي)، وَارْزُقْنِي",
+              "transliteration": "Allaahummagh-fir lii, warhamnii, (wajburnii), (warfa'nii), wahdinii, (wa 'aafinii), warzuqnii.",
+              "meaning": "Ya Allah, ampunilah aku, rahmatilah aku, (cukupilah kekuranganku), (angkatlah derajatku), tunjukilah aku, (selamatkanlah aku) dan berilah aku rezeki."
+            }
+          ],
+          "reference": {
+            "text": "HR. Abu Dawud no. 850, at- Tirmidzi no. 284, Ibnu Majah no. 898, al-Hakim 1/262, 271, al-Baihaq 2/122, Ahmad 1/315, 371 dll. Hadits Ibnu Abbas radhiyallahu ‘anhuma. Hadits ini sahih sebagaimana dinyatakan oleh al-Imam Albani dalam Shahih Kutubus Sunan.",
+            "evidenceType": "Hadis marfu’",
+            "note": "Menurut al-Imam an-Nawawi rahimahullah dalam al-Majmu’ (3/415), yang lebih hati-hati seluruh lafalnya diucapkan, yaitu ada tujuh kalimat sebagaimana disebutkan di atas.\n\nDalam lafal lain, ‘Allaahumma’ (Ya Allah) diganti dengan ‘Robbi’ (Ya Rabb).",
+            "context": null,
+            "sourceReference": "http://asysyariah.com/seputar-hukum-islam-duduk-di-antara-dua-sujud-gerakan-setelahnya",
+            "url": "http://asysyariah.com/seputar-hukum-islam-duduk-di-antara-dua-sujud-gerakan-setelahnya"
+          }
+        },
+        {
+          "id": "duduk-dua-sujud-03",
+          "displayOrder": 3,
+          "sourceOrder": 3,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "duduk-dua-sujud-03-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَللَّهُمَّ اغْفِرْ لِيْ، وَارْحَمْنِيْ، وَاهْدِنِيْ، وَاجْبُرْنِيْ، وَعَافِنِيْ، وَارْزُقْنِيْ، وَارْفَعْنِي",
+              "transliteration": "Allaahummagh-fir lii, warhamnii, wahdinii, wajburnii, wa 'aafinii, warzuqnii, warfa'nii.",
+              "meaning": "Ya Allah, ampunilah aku, rahmatilah aku, tunjukkanlah aku (ke jalan yang benar), cukupilah aku, selamatkanlah aku (tubuh sehat dan keluarga terhindar dari musibah), berilah aku rezeki (yang halal) dan angkatlah derajatku."
+            }
+          ],
+          "reference": {
+            "text": "HR. Ashhabus Sunan, kecuali An-Nasai. Lihat Shahih Tirmidzi 1/90 dan Shahih Ibnu Majah 1/148.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": null,
+            "sourceReference": "Hisnul Muslim.",
+            "url": null
+          }
+        },
+        {
+          "id": "duduk-dua-sujud-04",
+          "displayOrder": 4,
+          "sourceOrder": 4,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "duduk-dua-sujud-04-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "رَبِّ اغْفِرْ لِي، وَارْحَمْنِي، وَاجْبُرْنِي، وَارْفَعْنِي، وَارْزُقْنِي، وَاهْدِنِي",
+              "transliteration": "Robbigh-fir lii, warhamnii, wajburnii, warfa'nii, warzuqnii, wahdinii.",
+              "meaning": "Ya Allah, ampunilah aku, rahmatilah aku, cukupilah aku, angkatlah derajatku, berilah aku rezeki dan tunjukilah aku."
+            }
+          ],
+          "reference": {
+            "text": "HR. Ahmad 1:371. Syaikh Syu’aib Al Arnauth mengatakan bahwa haditsnya hasan.",
+            "evidenceType": "Hadis marfu’",
+            "note": "Dalam hadits Ibnu ‘Abbas disebutkan do’a duduk antara dua sujud yang dibaca oleh Nabi shallallahu ‘alaihi wa sallam adalah: (doa di atas).",
+            "context": null,
+            "sourceReference": "https://rumaysho.com/7289-sifat-shalat-nabi-11-tentang-duduk-antara-dua-sujud.html",
+            "url": "https://rumaysho.com/7289-sifat-shalat-nabi-11-tentang-duduk-antara-dua-sujud.html"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tasyahhud",
+      "order": 7,
+      "name": "Tasyahhud",
+      "publishedCount": 7,
+      "readings": [
+        {
+          "id": "tasyahhud-01",
+          "displayOrder": 1,
+          "sourceOrder": 1,
+          "subcategory": "Dari Ibnu Mas’ud",
+          "segments": [
+            {
+              "id": "tasyahhud-01-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَلتَّحِيَّاتُ لِلَّهِ، وَالصَّلَوَاتُ وَالطَّيِّبَاتُ، اَلسَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، اَلسَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِيْنَ، أَشْهَدُ أَنْ لَا إِلَـٰهَ إِلَّا اللَّهُ، وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ",
+              "transliteration": "At-tahiyyaatu lillaah, wash-sholawaatu wath-thoyyibaat. As-salaamu 'alaika ayyuhan-nabiyyu wa rohmatullaahi wa barokaatuh. As-salaamu 'alainaa wa 'alaa 'ibaadillaahish-shoolihiin. Asyhadu al-laa ilaaha illallaah, wa asyhadu anna muhammadan 'abduhu wa rosuuluh.",
+              "meaning": "Segala penghormatan hanya milik Allah, begitu juga shalawat dan kebaikan. Semoga kesejahteraan terlimpahkan kepadamu wahai Nabi, begitu juga rahmat Allah dan berkah-Nya. Semoga kesejahteraan terlimpahkan kepada kami dan hamba-hamba Allah yang shalih. Aku bersaksi bahwa tidak ada sesembahan yang berhak disembah kecuali Allah, dan aku bersaksi bahwa Muhammad adalah hamba dan utusan-Nya."
+            }
+          ],
+          "reference": {
+            "text": "HR. Al-Bukhari dalam Fathul Baari 1/13 dan Imam Muslim 1/301.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": "Rasulullah shallallahu ‘alaihi wa sallam mengajarkan berbagai macam lafal tasyahud. Sikap yang benar adalah mengamalkannya secara bergantian, agar kita bisa mengamalkan semua sunah Nabi shallallahu ‘alaihi wa sallam dan melestarikannya, sehingga tidak dilupakan.\n\nIbnu Mas’ud mengatakan, Rasulullah shallallahu ‘alaihi wa sallam mengajariku bacaan tasyahud sebagaimana beliau mengajariku surat Al-Quran. Bacaannya:",
+            "sourceReference": "Hisnul Muslim dan https://carasholat.com/422-bacaan-doa-tasyahud-dalam-sholat.html",
+            "url": "https://carasholat.com/422-bacaan-doa-tasyahud-dalam-sholat.html"
+          }
+        },
+        {
+          "id": "tasyahhud-02",
+          "displayOrder": 2,
+          "sourceOrder": 2,
+          "subcategory": "Dari Ibnu ‘Abbas",
+          "segments": [
+            {
+              "id": "tasyahhud-02-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَلتَّحِيَّاتُ الْمُبَارَكَاتُ الصَّلَوَاتُ الطَّيِّبَاتُ لِلَّهِ، اَلسَّلَامُ عَلَيْكَ أَيُّهَا النَّبِىُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، اَلسَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ، أَشْهَدُ أَنْ لَا إِلَـٰهَ إِلَّا اللَّهُ، وَأَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللَّهِ",
+              "transliteration": "At-tahiyyaatul mubaarokaatush-sholawaatuth-thoyyibaatu lillaah. As-salaamu 'alaika ayyuhan-nabiyyu wa rohmatullaahi wa barokaatuh. As-salaamu 'alainaa wa 'alaa 'ibaadillaahish-shoolihiin. Asyhadu al-laa ilaaha illallaah, wa asyhadu anna muhammadar-rosuulullaah.",
+              "meaning": "Segala ucapan selamat, keberkahan, shalawat dan kebaikan hanya milik Allah. Semoga kesejahteraan terlimpahkan kepadamu wahai Nabi, begitu juga rahmat Allah dan berkah-Nya. Semoga kesejahteraan terlimpahkan kepada kami dan hamba-hamba Allah yang shalih. Aku bersaksi bahwa tidak ada sesembahan yang berhak disembah kecuali Allah, dan aku bersaksi bahwa Muhammad adalah utusan Allah."
+            }
+          ],
+          "reference": {
+            "text": "HR. Muslim no. 403.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": null,
+            "sourceReference": "https://rumaysho.com/8548-sifat-shalat-nabi-20-bacaan-tasyahud-awal.html",
+            "url": "https://rumaysho.com/8548-sifat-shalat-nabi-20-bacaan-tasyahud-awal.html"
+          }
+        },
+        {
+          "id": "tasyahhud-03",
+          "displayOrder": 3,
+          "sourceOrder": 3,
+          "subcategory": "Dari Ibnu Umar",
+          "segments": [
+            {
+              "id": "tasyahhud-03-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَلتَّحِيَّاتُ لِلَّهِ الصَّلَوَاتُ الطَّيِّبَاتُ، اَلسَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، اَلسَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِيْنَ، أَشْهَدُ أَنْ لَا إِلَـٰهَ إِلَّا اللَّهُ، وَحْدَهُ لَا شَرِيْكَ لَهُ، وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ",
+              "transliteration": "At-tahiyyaatu lillaahish-sholawaatuth-thoyyibaat. As-salaamu 'alaika ayyuhan-nabiyyu wa rohmatullaahi wa barokaatuh. As-salaamu 'alainaa wa 'alaa 'ibaadillaahish-shoolihiin. Asyhadu al-laa ilaaha illallaah, wahdahu laa syariika lah, wa asyhadu anna muhammadan 'abduhu wa rosuuluh.",
+              "meaning": "Segala penghormatan hanya milik Allah, begitu juga shalawat dan kebaikan. Semoga kesejahteraan terlimpahkan kepadamu wahai Nabi, begitu juga rahmat Allah dan berkah-Nya. Semoga kesejahteraan terlimpahkan kepada kami dan hamba-hamba Allah yang shalih. Aku bersaksi bahwa tidak ada sesembahan yang berhak disembah kecuali Allah, Yang Maha Esa, tiada sekutu bagi-Nya, dan aku bersaksi bahwa Muhammad adalah hamba dan utusan-Nya."
+            }
+          ],
+          "reference": {
+            "text": "HR. Abu Daud dan dishahihkan Al-Albani.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": null,
+            "sourceReference": "https://carasholat.com/422-bacaan-doa-tasyahud-dalam-sholat.html",
+            "url": "https://carasholat.com/422-bacaan-doa-tasyahud-dalam-sholat.html"
+          }
+        },
+        {
+          "id": "tasyahhud-04",
+          "displayOrder": 4,
+          "sourceOrder": 4,
+          "subcategory": "Dari Umar bin Khatab",
+          "segments": [
+            {
+              "id": "tasyahhud-04-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَلتَّحِيَّاتُ لِلَّهِ، اَلزَّاكِيَاتُ لِلَّهِ، اَلطَّيِّبَاتُ الصَّلَوَاتُ لِلَّهِ، اَلسَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ، اَلسَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِيْنَ، أَشْهَدُ أَنْ لَا إِلَـٰهَ إِلَّا اللَّهُ، وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُ اللَّهِ وَرَسُوْلُهُ",
+              "transliteration": "At-tahiyyaatu lillaah, az-zaakiyaatu lillaah, ath-thoyyibaatush-sholawaatu lillaah. As-salaamu 'alaika ayyuhan-nabiyyu wa rohmatullaah. As-salaamu 'alainaa wa 'alaa 'ibaadillaahish-shoolihiin. Asyhadu al-laa ilaaha illallaah, wa asyhadu anna muhammadan 'abdullaahi wa rosuuluh.",
+              "meaning": "Segala penghormatan hanya milik Allah, amal-amal shalih yang menumbuhkan pahala untuk pelakunya di akhirat adalah untuk Allah, begitu juga kebaikan dan shalawat hanya milik Allah. Semoga kesejahteraan terlimpahkan kepadamu wahai Nabi, begitu juga rahmat Allah. Semoga kesejahteraan terlimpahkan kepada kami dan hamba-hamba Allah yang shalih. Aku bersaksi bahwa tidak ada sesembahan yang berhak disembah kecuali Allah, dan aku bersaksi bahwa Muhammad adalah hamba Allah dan utusan-Nya."
+            }
+          ],
+          "reference": {
+            "text": "HR. Malik dalam Al-Muwatha’, Ibnu Abi Syaibah dalam Mushannaf, dan dishahihkan Al-Albani.",
+            "evidenceType": "Atsar sahabat",
+            "note": "Khalifah Umar bin Khatab pernah berkhutbah mengajarkan tasyahud: (bacaan di atas).",
+            "context": null,
+            "sourceReference": "https://carasholat.com/422-bacaan-doa-tasyahud-dalam-sholat.html dan http://asysyariah.com/seputar-hukum-islam-bacaan-bacaan-tasyahud",
+            "url": "https://carasholat.com/422-bacaan-doa-tasyahud-dalam-sholat.html\nhttp://asysyariah.com/seputar-hukum-islam-bacaan-bacaan-tasyahud"
+          }
+        },
+        {
+          "id": "tasyahhud-05",
+          "displayOrder": 5,
+          "sourceOrder": 5,
+          "subcategory": "Dari Abu Musa al-Asy’ari",
+          "segments": [
+            {
+              "id": "tasyahhud-05-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَلتَّحِيَّاتُ الطَّيِّبَاتُ الصَّلَوَاتُ لِلَّهِ، اَلسَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، اَلسَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِيْنَ، أَشْهَدُ أَنْ لَا إِلَـٰهَ إِلَّا اللَّهُ، وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ",
+              "transliteration": "At-tahiyyaatuth-thoyyibaatush-sholawaatu lillaah. As-salaamu 'alaika ayyuhan-nabiyyu wa rohmatullaahi wa barokaatuh. As-salaamu 'alainaa wa 'alaa 'ibaadillaahish-shoolihiin. Asyhadu al-laa ilaaha illallaah, wa asyhadu anna muhammadan 'abduhu wa rosuuluh.",
+              "meaning": "Segala penghormatan, kebaikan dan shalawat hanya milik Allah. Semoga kesejahteraan terlimpahkan kepadamu wahai Nabi, begitu juga rahmat Allah dan berkah-Nya. Semoga kesejahteraan terlimpahkan kepada kami dan hamba-hamba Allah yang shalih. Aku bersaksi bahwa tidak ada sesembahan yang berhak disembah kecuali Allah, dan aku bersaksi bahwa Muhammad adalah hamba dan utusan-Nya."
+            }
+          ],
+          "reference": {
+            "text": "HR. Muslim no. 902.",
+            "evidenceType": "Hadis marfu’",
+            "note": "Dari Abu Musa, bahwa Nabi shallallahu ‘alaihi wa sallam bersabda, “Jika kalian duduk tasyahud, hendaknya yang pertama dia baca: (bacaan di atas).”",
+            "context": null,
+            "sourceReference": "https://carasholat.com/422-bacaan-doa-tasyahud-dalam-sholat.html dan http://asysyariah.com/seputar-hukum-islam-bacaan-bacaan-tasyahud",
+            "url": "https://carasholat.com/422-bacaan-doa-tasyahud-dalam-sholat.html\nhttp://asysyariah.com/seputar-hukum-islam-bacaan-bacaan-tasyahud"
+          }
+        },
+        {
+          "id": "tasyahhud-06",
+          "displayOrder": 6,
+          "sourceOrder": 6,
+          "subcategory": "Dari A’isyah",
+          "segments": [
+            {
+              "id": "tasyahhud-06-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَلتَّحِيَّاتُ الطَّيِّبَاتُ الصَّلَوَاتُ الزَّاكِيَاتُ لِلَّهِ، اَلسَّلَامُ عَلَى النَّبِيِّ وَرَحْمَةُ اللَّهِ، اَلسَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِيْنَ، أَشْهَدُ أَنْ لَا إِلَـٰهَ إِلَّا اللَّهُ، وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ",
+              "transliteration": "At-tahiyyaatuth-thoyyibaatush-sholawaatuz-zaakiyaatu lillaah. As-salaamu 'alan-nabiyyi wa rohmatullaah. As-salaamu 'alainaa wa 'alaa 'ibaadillaahish-shoolihiin. Asyhadu al-laa ilaaha illallaah, wa asyhadu anna muhammadan 'abduhu wa rosuuluh.",
+              "meaning": "Segala penghormatan, kebaikan, shalawat, amal-amal shalih yang menumbuhkan pahala untuk pelakunya di akhirat adalah untuk Allah. Semoga kesejahteraan terlimpahkan kepada Nabi, begitu juga rahmat Allah. Semoga kesejahteraan terlimpahkan kepada kami dan hamba-hamba Allah yang shalih. Aku bersaksi bahwa tidak ada sesembahan yang berhak disembah kecuali Allah, dan aku bersaksi bahwa Muhammad adalah hamba dan utusan-Nya."
+            }
+          ],
+          "reference": {
+            "text": "HR. Ibnu Abi Syaibah dalam Al-Mushanaf dan dishahihkan Al-Albani.",
+            "evidenceType": "Atsar sahabat",
+            "note": "Dari Al-Qosim bin Muhammad, bahwa A’isyah mengajari beliau lafal tasyahud: (bacaan di atas).",
+            "context": null,
+            "sourceReference": "https://carasholat.com/422-bacaan-doa-tasyahud-dalam-sholat.html",
+            "url": "https://carasholat.com/422-bacaan-doa-tasyahud-dalam-sholat.html"
+          }
+        },
+        {
+          "id": "tasyahhud-07",
+          "displayOrder": 7,
+          "sourceOrder": 7,
+          "subcategory": "Dari A’isyah",
+          "segments": [
+            {
+              "id": "tasyahhud-07-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَلتَّحِيَّاتُ الطَّيِّبَاتُ الصَّلَوَاتُ الزَّاكِيَاتُ لِلَّهِ، أَشْهَدُ أَنْ لَا إِلَـٰهَ إِلَّا اللَّهُ، وَحْدَهُ لَا شَرِيْكَ لَهُ، وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ، اَلسَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، اَلسَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِيْنَ، اَلسَّلَامُ عَلَيْكُمْ",
+              "transliteration": "At-tahiyyaatuth-thoyyibaatush-sholawaatuz-zaakiyaatu lillaah. Asyhadu al-laa ilaaha illallaah, wahdahu laa syariika lah, wa asyhadu anna muhammadan 'abduhu wa rosuuluh. As-salaamu 'alaika ayyuhan-nabiyyu wa rohmatullaahi wa barokaatuh. As-salaamu 'alainaa wa 'alaa 'ibaadillaahish-shoolihiin. As-salaamu 'alaikum.",
+              "meaning": "Segala penghormatan, kebaikan, shalawat, amal-amal shalih yang menumbuhkan pahala untuk pelakunya di akhirat adalah untuk Allah. Aku bersaksi bahwa tidak ada sesembahan yang berhak disembah kecuali Allah, Yang Maha Esa, tiada sekutu bagi-Nya, dan aku bersaksi bahwa Muhammad adalah hamba dan utusan-Nya. Semoga kesejahteraan terlimpahkan kepadamu wahai Nabi, begitu juga rahmat Allah dan berkah-Nya. Semoga kesejahteraan terlimpahkan kepada kami dan hamba-hamba Allah yang shalih. Semoga kesejahteraan terlimpahkan kepada kalian."
+            }
+          ],
+          "reference": {
+            "text": "HR. Malik no. 209.",
+            "evidenceType": "Atsar sahabat",
+            "note": null,
+            "context": null,
+            "sourceReference": "http://asysyariah.com/seputar-hukum-islam-bacaan-bacaan-tasyahud",
+            "url": "http://asysyariah.com/seputar-hukum-islam-bacaan-bacaan-tasyahud"
+          }
+        }
+      ]
+    },
+    {
+      "id": "shalawat_setelah_tasyahhud",
+      "order": 8,
+      "name": "Shalawat Setelah Tasyahhud",
+      "publishedCount": 6,
+      "readings": [
+        {
+          "id": "shalawat-01",
+          "displayOrder": 1,
+          "sourceOrder": 1,
+          "subcategory": "Dari Ka’ab bin Ujrah",
+          "segments": [
+            {
+              "id": "shalawat-01-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيْمَ وَعَلَى آلِ إِبْرَاهِيْمَ، إِنَّكَ حَمِيْدٌ مَجِيْدٌ، اَللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَى إِبْرَاهِيْمَ وَعَلَى آلِ إِبْرَاهِيْمَ، إِنَّكَ حَمِيْدٌ مَجِيْدٌ",
+              "transliteration": "Allaahumma sholli 'alaa muhammad, wa 'alaa aali muhammad, kamaa shollaita 'alaa ibroohiim, wa 'alaa aali ibroohiim, innaka hamiidun majiid. Allaahumma baarik 'alaa muhammad, wa 'alaa aali muhammad, kamaa baarokta 'alaa ibroohiim, wa 'alaa aali ibroohiim, innaka hamiidun majiid.",
+              "meaning": "Ya Allah, berikanlah shalawat kepada Muhammad dan keluarga Muhammad, sebagaimana Engkau telah memberikan shalawat kepada Ibrahim dan keluarga Ibrahim. Sesungguhnya Engkau Maha Terpuji dan Maha Mulia. Ya Allah, berkahilah Muhammad dan keluarga Muhammad (termasuk anak dan istri atau umatnya), sebagaimana Engkau telah memberkahi Ibrahim dan keluarga Ibrahim. Sesungguhnya Engkau Maha Terpuji dan Maha Mulia."
+            }
+          ],
+          "reference": {
+            "text": "HR. Al-Bukhari dalam Fathul Baari 6/408 dan Muslim.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": "Rasulullah shallallahu ‘alaihi wa sallam mengajarkan berbagai lafal bacaan shalawat. Sikap yang tepat adalah berusaha menghafal semuanya dan mengamalkannya secara bergantian, sehingga kita tergolong orang yang melestarikan ajaran Beliau. Berikut beberapa diantara bacaan shalawat yang diajarkan Rasulullah shallallahu ‘alaihi wa sallam.\n\nDari Ka’ab bin Ujrah, Rasulullah shallallahu ‘alaihi wa sallam mengajarkan shalawat:",
+            "sourceReference": "Hisnul Muslim dan https://carasholat.com/577-cara-sholat-bab-bacaan-doa-tasyahud-akhir.html",
+            "url": "https://carasholat.com/577-cara-sholat-bab-bacaan-doa-tasyahud-akhir.html"
+          }
+        },
+        {
+          "id": "shalawat-02",
+          "displayOrder": 2,
+          "sourceOrder": 2,
+          "subcategory": "Dari Abu Mas’ud Al-Anshari",
+          "segments": [
+            {
+              "id": "shalawat-02-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى آلِ إِبْرَاهِيمَ، وَبَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيمَ، فِي الْعَالَمِينَ إِنَّكَ حَمِيدٌ مَجِيدٌ",
+              "transliteration": "Allaahumma sholli 'alaa muhammad, wa 'alaa aali muhammad, kamaa shollaita 'alaa aali ibroohiim. Wa baarik 'alaa muhammad, wa 'alaa aali muhammad, kamaa baarokta 'alaa aali ibroohiim. Fil 'aalamiina innaka hamiidun majiid.",
+              "meaning": "Ya Allah, berikanlah shalawat kepada Muhammad dan keluarga Muhammad, sebagaimana Engkau telah memberikan shalawat kepada keluarga Ibrahim. Dan berkahilah Muhammad dan keluarga Muhammad, sebagaimana Engkau telah memberkahi keluarga Ibrahim. Atas sekalian alam, sesungguhnya Engkau Maha Terpuji dan Maha Mulia."
+            }
+          ],
+          "reference": {
+            "text": "HR. Malik dalam Al-Muwatha, Ahmad, Nasai, dan dishahihkan Syuaib Al-Arnauth.",
+            "evidenceType": "Hadis marfu’",
+            "note": "Dari Abu Mas’ud Al-Anshari, Rasulullah shallallahu ‘alaihi wa sallam mengajarkan shalawat: (bacaan di atas).",
+            "context": null,
+            "sourceReference": "https://carasholat.com/577-cara-sholat-bab-bacaan-doa-tasyahud-akhir.html",
+            "url": "https://carasholat.com/577-cara-sholat-bab-bacaan-doa-tasyahud-akhir.html"
+          }
+        },
+        {
+          "id": "shalawat-03",
+          "displayOrder": 3,
+          "sourceOrder": 3,
+          "subcategory": "Dari Abu Mas’ud Al-Anshari",
+          "segments": [
+            {
+              "id": "shalawat-03-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ، النَّبِيِّ الأُمِّيِّ، وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى آلِ إِبْرَاهِيمَ، وَبَارِكْ عَلَى مُحَمَّدٍ، النَّبِيِّ الأُمِّيِّ، وَعَلَى آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيمَ، فِي الْعَالَمِينَ إِنَّكَ حَمِيدٌ مَجِيدٌ",
+              "transliteration": "Allaahumma sholli 'alaa muhammad, an-nabiyyil ummiyyi, wa 'alaa aali muhammad, kamaa shollaita 'alaa aali ibroohiim. Wa baarik 'alaa muhammad, an-nabiyyil ummiyyi, wa 'alaa aali muhammad, kamaa baarokta 'alaa aali ibroohiim. Fil 'aalamiina innaka hamiidun majiid.",
+              "meaning": "Ya Allah, berikanlah shalawat kepada Muhammad Nabi yang ummi, dan kepada keluarga Muhammad, sebagaimana Engkau telah memberikan shalawat kepada keluarga Ibrahim. Dan berkahilah Muhammad Nabi yang ummi, dan keluarga Muhammad, sebagaimana Engkau telah memberkahi keluarga Ibrahim. Atas sekalian alam, sesungguhnya Engkau Maha Terpuji dan Maha Mulia."
+            }
+          ],
+          "reference": {
+            "text": "Diriwayatkan dari Abu Mas’ud al-Anshari; antara lain Musnad Ahmad no. 17113 dan As-Sunan Al-Kubra An-Nasa’i no. 9794.",
+            "evidenceType": "Hadis marfu’",
+            "note": "Juga dari Abu Mas’ud Al-Anshari, Rasulullah shallallahu ‘alaihi wa sallam mengajarkan shalawat: (bacaan di atas).",
+            "context": null,
+            "sourceReference": "Musnad Ahmad no. 17113; As-Sunan Al-Kubra An-Nasa’i no. 9794.",
+            "url": "https://dorar.net/h/l4QaHt0W?osoul=1"
+          }
+        },
+        {
+          "id": "shalawat-04",
+          "displayOrder": 4,
+          "sourceOrder": 4,
+          "subcategory": "Dari Abu Thalhah",
+          "segments": [
+            {
+              "id": "shalawat-04-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، وَبَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ وَبَارَكْتَ عَلَى إِبْرَاهِيمَ وَآلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ",
+              "transliteration": "Allaahumma sholli 'alaa muhammad, wa 'alaa aali muhammad, wa baarik 'alaa muhammad, wa 'alaa aali muhammad, kamaa shollaita wa baarokta 'alaa ibroohiim, wa aali ibroohiim, innaka hamiidun majiid.",
+              "meaning": "Ya Allah, berikanlah shalawat kepada Muhammad dan keluarga Muhammad, dan berkahilah Muhammad dan keluarga Muhammad, sebagaimana Engkau telah memberikan shalawat dan memberkahi Ibrahim dan keluarga Ibrahim. Sesungguhnya Engkau Maha Terpuji dan Maha Mulia."
+            }
+          ],
+          "reference": {
+            "text": "HR. Nasai, At-Thahawi, dan sanadnya shahih.",
+            "evidenceType": "Hadis marfu’",
+            "note": "Dari Abu Thalhah, Rasulullah shallallahu ‘alaihi wa sallam mengajarkan bacaan shalawat: (bacaan di atas).",
+            "context": null,
+            "sourceReference": "https://carasholat.com/577-cara-sholat-bab-bacaan-doa-tasyahud-akhir.html",
+            "url": "https://carasholat.com/577-cara-sholat-bab-bacaan-doa-tasyahud-akhir.html"
+          }
+        },
+        {
+          "id": "shalawat-05",
+          "displayOrder": 5,
+          "sourceOrder": 5,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "shalawat-05-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى أَزْوَاجِهِ وَذُرِّيَّتِهِ، كَمَا صَلَّيْتَ عَلَى آلِ إِبْرَاهِيْمَ، وَبَارِكْ عَلَى مُحَمَّدٍ وَعَلَى أَزْوَاجِهِ وَذُرِّيَّتِهِ، كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيْمَ، إِنَّكَ حَمِيْدٌ مَجِيْدٌ",
+              "transliteration": "Allaahumma sholli 'alaa muhammad, wa 'alaa azwaajihi wa dzurriyyatihi, kamaa shollaita 'alaa aali ibroohiim. Wa baarik 'alaa muhammad, wa 'alaa azwaajihi wa dzurriyyatihi, kamaa baarokta 'alaa aali ibroohiim, innaka hamiidun majiid.",
+              "meaning": "Ya Allah, berikanlah shalawat kepada Muhammad, istri-istri dan keturunannya, sebagaimana Engkau telah memberikan shalawat kepada keluarga Ibrahim. Dan berkahilah Muhammad, istri-istri dan keturunannya, sebagaimana Engkau telah memberkahi keluarga Ibrahim. Sesungguhnya Engkau Maha Terpuji dan Maha Mulia."
+            }
+          ],
+          "reference": {
+            "text": "HR. Al-Bukhari dalam Fathul Baari 6/407 dan Imam Muslim meriwayatkannya dalam kitabnya 1/306. Lafal hadits tersebut menurut riwayat Muslim.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": null,
+            "sourceReference": "Hisnul Muslim.",
+            "url": null
+          }
+        },
+        {
+          "id": "shalawat-06",
+          "displayOrder": 6,
+          "sourceOrder": 6,
+          "subcategory": "Dari Amr Bin Hazm",
+          "segments": [
+            {
+              "id": "shalawat-06-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى أَهْلِ بَيْتِهِ، وَعَلَى أَزْوَاجِهِ وَذُرِّيَّتِهِ، كَمَا صَلَّيْتَ عَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ، وَبَارِكْ عَلَى مُحَمَّدٍ وَعَلَى أَهْلِ بَيْتِهِ، وَعَلَى أَزْوَاجِهِ وَذُرِّيَّتِهِ، كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ",
+              "transliteration": "Allaahumma sholli 'alaa muhammad, wa 'alaa ahli baitihi, wa 'alaa azwaajihi wa dzurriyyatihi, kamaa shollaita 'alaa aali ibroohiim, innaka hamiidun majiid. Wa baarik 'alaa muhammad, wa 'alaa ahli baitihi, wa 'alaa azwaajihi wa dzurriyyatihi, kamaa baarokta 'alaa aali ibroohiim, innaka hamiidun majiid.",
+              "meaning": "Ya Allah, berikanlah shalawat kepada Muhammad, keluarganya, istri-istri dan keturunannya, sebagaimana Engkau telah memberikan shalawat kepada keluarga Ibrahim. Sesungguhnya Engkau Maha Terpuji dan Maha Mulia. Dan berkahilah Muhammad, keluarganya, istri-istri dan keturunannya, sebagaimana Engkau telah memberkahi keluarga Ibrahim. Sesungguhnya Engkau Maha Terpuji dan Maha Mulia."
+            }
+          ],
+          "reference": {
+            "text": "HR. Ahmad, Abdurazaq dalam Mushanaf, At-Thahawi dengan sanad yang shahih.",
+            "evidenceType": "Hadis marfu’",
+            "note": "Dari Amr bin Hazm, dari salah seorang sahabat, bahwa Nabi shallallahu ‘alaihi wa sallam membaca: (bacaan di atas).",
+            "context": null,
+            "sourceReference": "https://carasholat.com/577-cara-sholat-bab-bacaan-doa-tasyahud-akhir.html",
+            "url": "https://carasholat.com/577-cara-sholat-bab-bacaan-doa-tasyahud-akhir.html"
+          }
+        }
+      ]
+    },
+    {
+      "id": "doa_sebelum_salam",
+      "order": 9,
+      "name": "Doa Sebelum Salam",
+      "publishedCount": 14,
+      "readings": [
+        {
+          "id": "sebelum-salam-01",
+          "displayOrder": 1,
+          "sourceOrder": 1,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "sebelum-salam-01-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَللَّهُمَّ إِنِّيْ أَعُوْذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، وَمِنْ عَذَابِ جَهَنَّمَ، وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ، وَمِنْ شَرِّ فِتْنَةِ الْمَسِيْحِ الدَّجَّالِ",
+              "transliteration": "Allaahumma innii a'uudzu bika min 'adzaabil qobr, wa min 'adzaabi jahannam, wa min fitnatil mahyaa wal mamaat, wa min syarri fitnatil masiihid-dajjaal.",
+              "meaning": "Ya Allah, sesungguhnya aku berlindung kepadaMu dari siksa kubur, siksa neraka Jahanam, fitnah kehidupan dan setelah mati, serta dari kejahatan fitnah Almasih Dajjal."
+            }
+          ],
+          "reference": {
+            "text": "HR. Al-Bukhari 2/102 dan Muslim 1/412. Lafal hadits ini dalam riwayat Muslim.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": null,
+            "sourceReference": "Hisnul Muslim.",
+            "url": null
+          }
+        },
+        {
+          "id": "sebelum-salam-02",
+          "displayOrder": 2,
+          "sourceOrder": 2,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "sebelum-salam-02-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَللَّهُمَّ إِنِّيْ أَعُوْذُ بِكَ مِنْ عَذَابِ جَهَنَّمَ، وَمِنْ عَذَابِ الْقَبْرِ، وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ، وَمِنْ شَرِّ فِتْنَةِ الْمَسِيْحِ الدَّجَّالِ",
+              "transliteration": "Allaahumma innii a'uudzu bika min 'adzaabi jahannam, wa min 'adzaabil qobr, wa min fitnatil mahyaa wal mamaat, wa min syarri fitnatil masiihid-dajjaal.",
+              "meaning": "Ya Allah, sesungguhnya aku berlindung kepadaMu dari siksa neraka Jahanam, siksa kubur, fitnah kehidupan dan setelah mati, serta dari kejahatan fitnah Almasih Dajjal."
+            }
+          ],
+          "reference": {
+            "text": "HR. Muslim no. 588.",
+            "evidenceType": "Hadis marfu’",
+            "note": "Dari Abu Hurairah radhiallahu ‘anhu mengatakan, Rasulullah shallallahu 'alaihi wa sallam bersabda, “Apabila di antara kalian telah tasyahud akhir, maka berlindunglah kepada Allah dari empat hal.” Beliau mengucapkan, “(doa di atas).”\n\nPenjelasan hadits:\n\nNabi shallallahu 'alaihi wa sallam menganjurkan pada sahabat untuk berdoa dan berlindung dari empat hal sebelum salam. Karena di akhir shalat sebelum salam waktu makbulnya doa, sebagaimana penjelasan nabi. Ada yang bertanya, “Wahai Rasulullah, kapan doa kita didengar oleh Allah?” Beliau bersabda, “Di akhir malam dan di akhir shalat wajib.” (HR. Tirmidzi, 3499).",
+            "context": null,
+            "sourceReference": "https://konsultasisyariah.com/34204-penjelasan-doa-setelah-tasyahud-akhir-berlindung-dari-empat-hal.html",
+            "url": "https://konsultasisyariah.com/34204-penjelasan-doa-setelah-tasyahud-akhir-berlindung-dari-empat-hal.html"
+          }
+        },
+        {
+          "id": "sebelum-salam-03",
+          "displayOrder": 3,
+          "sourceOrder": 3,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "sebelum-salam-03-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَللَّهُمَّ إِنِّى أَعُوذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، وَعَذَابِ النَّارِ، وَفِتْنَةِ الْمَحْيَا وَالْمَمَاتِ، وَشَرِّ الْمَسِيحِ الدَّجَّالِ",
+              "transliteration": "Allaahumma innii a'uudzu bika min 'adzaabil qobr, wa 'adzaabin-naar, wa fitnatil mahyaa wal mamaat, wa syarril masiihid-dajjaal.",
+              "meaning": "Ya Allah, sesungguhnya aku berlindung kepadaMu dari siksa kubur, siksa neraka, fitnah kehidupan dan setelah mati, serta dari kejahatan Almasih Dajjal."
+            }
+          ],
+          "reference": {
+            "text": "HR. Muslim no. 588.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": null,
+            "sourceReference": "https://rumaysho.com/8684-sifat-shalat-nabi-23-bacaan-tasyahud-akhir.html",
+            "url": "https://rumaysho.com/8684-sifat-shalat-nabi-23-bacaan-tasyahud-akhir.html"
+          }
+        },
+        {
+          "id": "sebelum-salam-04",
+          "displayOrder": 4,
+          "sourceOrder": 4,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "sebelum-salam-04-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَللَّهُمَّ إِنِّيْ أَعُوْذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، وَأَعُوْذُ بِكَ مِنْ فِتْنَةِ الْمَسِيْحِ الدَّجَّالِ، وَأَعُوْذُ بِكَ مِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ. اَللَّهُمَّ إِنِّيْ أَعُوْذُ بِكَ مِنَ الْمَأْثَمِ وَالْمَغْرَمِ",
+              "transliteration": "Allaahumma innii a'uudzu bika min 'adzaabil qobr, wa a'uudzu bika min fitnatil masiihid-dajjaal, wa a'uudzu bika min fitnatil mahyaa wal mamaat. Allaahumma innii a'uudzu bika minal ma'tsami wal maghrom.",
+              "meaning": "Ya Allah, sesungguhnya aku berlindung kepadaMu dari siksa kubur. Aku berlindung kepadaMu dari fitnah Almasih Dajjal. Aku berlindung kepadaMu dari fitnah kehidupan dan setelah mati. Ya Allah, sesungguhnya aku berlindung kepadaMu dari perbuatan dosa dan kerugian."
+            }
+          ],
+          "reference": {
+            "text": "HR. Al-Bukhari 1/202 dan Muslim 1/412.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": null,
+            "sourceReference": "Hisnul Muslim.",
+            "url": null
+          }
+        },
+        {
+          "id": "sebelum-salam-05",
+          "displayOrder": 5,
+          "sourceOrder": 5,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "sebelum-salam-05-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَللَّهُمَّ إِنِّيْ ظَلَمْتُ نَفْسِيْ ظُلْمًا كَثِيْرًا، وَلاَ يَغْفِرُ الذُّنُوْبَ إِلاَّ أَنْتَ، فَاغْفِرْ لِيْ مَغْفِرَةً مِنْ عِنْدِكَ، وَارْحَمْنِيْ، إِنَّكَ أَنْتَ الْغَفُوْرُ الرَّحِيْمُ",
+              "transliteration": "Allaahumma innii zholamtu nafsii zhulman katsiiron, wa laa yaghfirudz-dzunuuba illaa anta, faghfir lii maghfirotan min 'indika, warhamnii, innaka antal ghofuurur-rohiim.",
+              "meaning": "Ya Allah, sungguh aku telah menzalimi diriku dengan kezaliman yang banyak, dan tidak ada yang dapat mengampuni dosa-dosa kecuali Engkau. Maka ampunilah aku dengan suatu pengampunan dari sisi-Mu, dan rahmatilah aku. Sesungguhnya Engkau Maha Pengampun lagi Maha Penyayang."
+            }
+          ],
+          "reference": {
+            "text": "HR. Al-Bukhari 8/168 dan Muslim 4/2078.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": null,
+            "sourceReference": "Hisnul Muslim.",
+            "url": null
+          }
+        },
+        {
+          "id": "sebelum-salam-06",
+          "displayOrder": 6,
+          "sourceOrder": 6,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "sebelum-salam-06-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَللَّهُمَّ إِنِّيْ أَسْأَلُكَ يَا اَللَّهُ، بِأَنَّكَ الْوَاحِدُ اْلأَحَدُ الصَّمَدُ، الَّذِيْ لَمْ يَلِدْ وَلَمْ يُوْلَدْ، وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ، أَنْ تَغْفِرَ لِيْ ذُنُوْبِيْ، إِنَّكَ أَنْتَ الْغَفُوْرُ الرَّحِيْمُ",
+              "transliteration": "Allaahumma innii as-aluka yaa allaah, bi-annakal waahidul ahadush-shomad, alladzii lam yalid wa lam yuulad, wa lam yakun lahu kufuwan ahad, an taghfiro lii dzunuubii, innaka antal ghofuurur-rohiim.",
+              "meaning": "Ya Allah, sesungguhnya aku mohon kepadaMu ya Allah, dengan bersaksi bahwa Engkau adalah Tuhan Yang Maha Esa, Maha Tunggal, tempat bergantungnya seluruh makhluk, tidak beranak dan tidak diperanakkan (tidak punya ibu dan bapak), tidak ada seorang pun yang menyamaiMu, agar mengampuni dosa-dosaku. Sesungguhnya Engkau Maha Pengampun lagi Maha Penyayang."
+            }
+          ],
+          "reference": {
+            "text": "HR. An-Nasai, lafal hadits menurut riwayatnya 3/52 dan Ahmad 4/338. Dinyatakan Al-Albani shahih dalam Shahih An-Nasai 1/280.",
+            "evidenceType": "Hadis marfu’",
+            "note": "Bahwasanya Rasulullaah shallallahu ‘alaihi wa sallam masuk masjid, dan ada seorang lak-laki yang sedang shalat, dalam keadaan bertasyahud, ia berdoa (dalam tasyahudnya): (doa di atas). Maka Rasuulullaah bersabda, “Sungguh Allah telah mengampuninya, sungguh Allah telah mengampuninya, sungguh Allah telah mengampuninya.”\n\nSubhanallah, sebuah doa yang agung, yang apabila kita membacanya kita mendapatkan pengampunan dari Allah Ta’ala.\n\nOleh karena itu marilah kita berusaha untuk menghafalkan doa ini, dan berusaha membacanya ketika kita bertasyahud, agar kita mendapatkan pengampunan dari Allah Ta’ala.\n\nMudah-mudahan Allah Ta’ala memudahkan kita semua untuk mengamalkannya.",
+            "context": null,
+            "sourceReference": "Hisnul Muslim dan http://muslim.or.id/27425-jangan-lupakan-doa-ini-ketika-tasyahud-sebelum-salam.html",
+            "url": "http://muslim.or.id/27425-jangan-lupakan-doa-ini-ketika-tasyahud-sebelum-salam.html"
+          }
+        },
+        {
+          "id": "sebelum-salam-07",
+          "displayOrder": 7,
+          "sourceOrder": 7,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "sebelum-salam-07-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَللَّهُمَّ إِنِّيْ أَسْأَلُكَ بِأَنَّ لَكَ الْحَمْدَ، لاَ إِلَـٰهَ إِلاَّ أَنْتَ، وَحْدَكَ لاَ شَرِيْكَ لَكَ، اَلْمَنَّانُ، يَا بَدِيْعَ السَّمَاوَاتِ وَاْلأَرْضِ، يَا ذَا الْجَلاَلِ وَاْلإِكْرَامِ، يَا حَيُّ يَا قَيُّوْمُ، إِنِّيْ أَسْأَلُكَ الْجَنَّةَ، وَأَعُوْذُ بِكَ مِنَ النَّارِ",
+              "transliteration": "Allaahumma innii as-aluka bi-anna lakal hamda, laa ilaaha illaa anta, wahdaka laa syariika lak, al mannaan, yaa badii'as-samaawaati wal ardh, yaa dzal jalaali wal ikroom, yaa hayyu yaa qoyyuum, innii as-alukal jannah, wa a'uudzu bika minan-naar.",
+              "meaning": "Ya Allah, aku mohon kepadaMu. Sesungguhnya bagiMu segala pujian, tidak ada sesembahan yang berhak disembah kecuali Engkau, Yang Maha Esa, tiada sekutu bagiMu, Maha Pemberi nikmat, Pencipta langit dan bumi tanpa contoh sebelumnya. Wahai Tuhan Yang Maha Agung dan Maha Pemurah, wahai Tuhan Yang Hidup, wahai Tuhan yang mengurusi segala sesuatu, sesungguhnya aku mohon kepadaMu agar dimasukkan ke Surga, dan aku berlindung kepadaMu dari siksa Neraka."
+            }
+          ],
+          "reference": {
+            "text": "HR. Seluruh penyusun As-Sunan. Lihat Shahih Ibnu Majah 2/329.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": null,
+            "sourceReference": "Hisnul Muslim.",
+            "url": null
+          }
+        },
+        {
+          "id": "sebelum-salam-08",
+          "displayOrder": 8,
+          "sourceOrder": 8,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "sebelum-salam-08-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَللَّهُمَّ اغْفِرْ لِيْ مَا قَدَّمْتُ وَمَا أَخَّرْتُ، وَمَا أَسْرَرْتُ وَمَا أَعْلَنْتُ، وَمَا أَسْرَفْتُ وَمَا أَنْتَ أَعْلَمُ بِهِ مِنِّيْ. أَنْتَ الْمُقَدِّمُ وَأَنْتَ الْمُؤَخِّرُ، لاَ إِلَـٰهَ إِلاَّ أَنْتَ",
+              "transliteration": "Allaahummagh-fir lii maa qoddamtu wa maa akh-khortu, wa maa asrortu wa maa a'lantu, wa maa asroftu wa maa anta a'lamu bihi minnii. Antal muqoddimu wa antal mu-akh-khiru, laa ilaaha illaa anta.",
+              "meaning": "Ya Allah, ampunilah aku akan (dosaku) yang aku lewatkan dan yang aku akhirkan, apa yang aku rahasiakan dan yang kutampakkan, yang aku lakukan secara berlebihan, serta apa yang Engkau lebih mengetahui dari pada aku, Engkau yang mendahulukan dan mengakhirkan, tidak ada sesembahan yang berhak disembah kecuali Engkau."
+            }
+          ],
+          "reference": {
+            "text": "HR. Muslim 1/534.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": null,
+            "sourceReference": "Hisnul Muslim.",
+            "url": null
+          }
+        },
+        {
+          "id": "sebelum-salam-09",
+          "displayOrder": 9,
+          "sourceOrder": 9,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "sebelum-salam-09-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَللَّهُمَّ أَعِنِّيْ عَلَى ذِكْرِكَ، وَشُكْرِكَ، وَحُسْنِ عِبَادَتِكَ",
+              "transliteration": "Allaahumma a'innii 'alaa dzikrika, wa syukrika, wa husni 'ibaadatik.",
+              "meaning": "Ya Allah, tolonglah aku untuk berdzikir kepada-Mu, bersyukur kepada-Mu, serta beribadah dengan baik kepada-Mu."
+            }
+          ],
+          "reference": {
+            "text": "HR. Abu Dawud 2/86 dan An-Nasai 3/53. Al-Albani menshahihkannya dalam Shahih Abi Dawud, 1/284.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": null,
+            "sourceReference": "Hisnul Muslim.",
+            "url": "https://sunnah.com/nasai:1303\nhttps://sunnah.com/abudawud:1522"
+          }
+        },
+        {
+          "id": "sebelum-salam-10",
+          "displayOrder": 10,
+          "sourceOrder": 10,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "sebelum-salam-10-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَللَّهُمَّ إِنِّى أَعُوذُ بِكَ مِنَ الْجُبْنِ، وَأَعُوذُ بِكَ أَنْ أُرَدَّ إِلَى أَرْذَلِ الْعُمُرِ، وَأَعُوذُ بِكَ مِنْ فِتْنَةِ الدُّنْيَا، وَأَعُوذُ بِكَ مِنْ عَذَابِ الْقَبْرِ",
+              "transliteration": "Allaahumma innii a'uudzu bika minal jubni, wa a'uudzu bika an urodda ilaa ar-dzalil 'umuri, wa a'uudzu bika min fitnatid-dunyaa, wa a'uudzu bika min 'adzaabil qobr.",
+              "meaning": "Ya Allah, aku berlindung kepada-Mu dari lemah melakukan ibadah yang mulia, aku berlindung kepada-Mu dari keadaan tua yang jelek, aku berlindung kepada-Mu dari tergoda syahwat dunia (sehingga lalai dari kewajiban), dan aku berlindung kepada-Mu dari siksa kubur."
+            }
+          ],
+          "reference": {
+            "text": "HR. Bukhari no. 2822.",
+            "evidenceType": "Hadis marfu’",
+            "note": "Sa’ad bin ‘Abi Waqqash biasa mengajarkan anaknya beberapa kalimat doa berikut. Ia mengajarkan doa tersebut sebagaimana para pengajar mengajarkan menulis. Ia mengatakan bahwa Rasulullah shallallahu ‘alaihi wa sallam biasa membaca doa ini di dubur shalat (akhir tasyahud sebelum salam).",
+            "context": null,
+            "sourceReference": "https://rumaysho.com/22442-manhajus-salikin-berbagai-doa-setelah-tasyahud-akhir-sebelum-salam.html",
+            "url": "https://rumaysho.com/22442-manhajus-salikin-berbagai-doa-setelah-tasyahud-akhir-sebelum-salam.html"
+          }
+        },
+        {
+          "id": "sebelum-salam-11",
+          "displayOrder": 11,
+          "sourceOrder": 11,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "sebelum-salam-11-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَللَّهُمَّ إِنِّيْ أَعُوْذُ بِكَ مِنَ الْبُخْلِ، وَأَعُوْذُ بِكَ مِنَ الْجُبْنِ، وَأَعُوْذُ بِكَ مِنْ أَنْ أُرَدَّ إِلَى أَرْذَلِ الْعُمُرِ، وَأَعُوْذُ بِكَ مِنْ فِتْنَةِ الدُّنْيَا وَعَذَابِ الْقَبْرِ",
+              "transliteration": "Allaahumma innii a'uudzu bika minal bukhli, wa a'uudzu bika minal jubni, wa a'uudzu bika min an urodda ilaa ar-dzalil 'umuri, wa a'uudzu bika min fitnatid-dunyaa wa 'adzaabil qobr.",
+              "meaning": "Ya Allah, sesungguhnya aku berlindung kepadaMu dari bakhil, aku berlindung kepadaMu dari penakut, aku berlindung kepadaMu dari dikembalikan ke usia yang terhina, dan aku berlindung kepadaMu dari fitnah dunia dan siksa kubur."
+            }
+          ],
+          "reference": {
+            "text": "HR. Al-Bukhari dalam Fathul Baari 6/35.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": null,
+            "sourceReference": "Hisnul Muslim.",
+            "url": null
+          }
+        },
+        {
+          "id": "sebelum-salam-12",
+          "displayOrder": 12,
+          "sourceOrder": 12,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "sebelum-salam-12-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَللَّهُمَّ إِنِّيْ أَسْأَلُكَ الْجَنَّةَ، وَأَعُوْذُ بِكَ مِنَ النَّارِ",
+              "transliteration": "Allaahumma innii as-alukal jannah, wa a'uudzu bika minan-naar.",
+              "meaning": "Ya Allah, aku mohon kepada-Mu surga, dan aku berlindung kepada-Mu dari neraka."
+            }
+          ],
+          "reference": {
+            "text": "HR. Abu Dawud dan lihat di Shahih Ibnu Majah 2/328.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": null,
+            "sourceReference": "Hisnul Muslim.",
+            "url": null
+          }
+        },
+        {
+          "id": "sebelum-salam-13",
+          "displayOrder": 13,
+          "sourceOrder": 13,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "sebelum-salam-13-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَللَّهُمَّ بِعِلْمِكَ الْغَيْبَ وَقُدْرَتِكَ عَلَى الْخَلْقِ أَحْيِنِيْ مَا عَلِمْتَ الْحَيَاةَ خَيْرًا لِيْ، وَتَوَفَّنِيْ إِذَا عَلِمْتَ الْوَفَاةَ خَيْرًا لِيْ، اَللَّهُمَّ إِنِّيْ أَسْأَلُكَ خَشْيَتَكَ فِي الْغَيْبِ وَالشَّهَادَةِ، وَأَسْأَلُكَ كَلِمَةَ الْحَقِّ فِي الرِّضَا وَالْغَضَبِ، وَأَسْأَلُكَ الْقَصْدَ فِي الْغِنَى وَالْفَقْرِ، وَأَسْأَلُكَ نَعِيْمًا لاَ يَنْفَدُ، وَأَسْأَلُكَ قُرَّةَ عَيْنٍ لاَ يَنْقَطِعُ، وَأَسْأَلُكَ الرِّضَا بَعْدَ الْقَضَاءِ، وَأَسْأَلُكَ بَرْدَ الْعَيْشِ بَعْدَ الْمَوْتِ، وَأَسْأَلُكَ لَذَّةَ النَّظَرِ إِلَى وَجْهِكَ وَالشَّوْقَ إِلَى لِقَائِكَ فِيْ غَيْرِ ضَرَّاءَ مُضِرَّةٍ وَلاَ فِتْنَةٍ مُضِلَّةٍ، اَللَّهُمَّ زَيِّنَّا بِزِيْنَةِ اْلإِيْمَانِ وَاجْعَلْنَا هُدَاةً مُهْتَدِيْنَ",
+              "transliteration": "Allaahumma bi'ilmikal ghoiba wa qudrotika 'alal kholqi ahyinii maa 'alimtal hayaata khoiron lii, wa tawaffanii idzaa 'alimtal wafaata khoiron lii, allaahumma innii as-aluka khosy-yataka fil ghoibi wasy-syahaadati, wa as-aluka kalimatal haqqi fir-ridhoo wal ghodhobi, wa as-alukal qoshda fil ghinaa wal faqri, wa as-aluka na'iimaan laa yanfadu, wa as-aluka qurrota 'ainin laa yanqothi', wa as-alukar-ridhoo ba'dal qodhoo-i, wa as-aluka bardal 'aisy ba'dal mauti, wa as-aluka ladz-dzatan-nazhori ilaa wajhika wasy-syauqo ilaa liqoo-ika fii ghoiri dhorroo-a mudhirratin wa laa fitnatin mudhillatin, allaahumma zayyannaa biziinatil iimaani waj'alnaa hudaatan muhtadiin.",
+              "meaning": "Ya Allah, dengan ilmuMu atas yang gaib dan dengan kemahakuasaanMu atas seluruh makhluk, perpanjanglah hidupku, bila Engkau mengetahui bahwa kehidupan selanjutnya lebih baik bagiku. Dan matikan aku dengan segera, bila Engkau mengetahui bahwa kematian lebih baik bagiku. Ya Allah, sesungguhnya aku mohon kepadaMu agar aku takut kepadaMu dalam keadaan sembunyi (sepi) atau ramai. Aku mohon kepadaMu, agar dapat berpegang dengan kalimat hak di waktu rela atau marah. Aku minta kepadaMu, agar aku bisa melaksanakan kesederhanaan dalam keadaan kaya atau fakir, aku mohon kepadaMu agar diberi nikmat yang tidak habis dan aku minta kepadaMu, agar diberi penyejuk mata yang tak putus. Aku mohon kepadaMu agar aku dapat rela setelah qadhaMu (turun pada kehidupanku). Aku mohon kepadaMu kehidupan yang menyenangkan setelah aku meninggal dunia. Aku mohon kepadaMu kenikmatan memandang wajahMu (di Surga), rindu bertemu denganMu tanpa penderitaan yang membahayakan dan fitnah yang menyesatkan. Ya Allah, hiasilah kami dengan keimanan dan jadikanlah kami sebagai penunjuk jalan (lurus) yang memperoleh bimbingan dariMu."
+            }
+          ],
+          "reference": {
+            "text": "HR. An-Nasai 3/54-55 dan Ahmad 4/364. Dinyatakan oleh Al-Albani shahih dalam Shahih An-Nasai 1/281.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": null,
+            "sourceReference": "Hisnul Muslim.",
+            "url": null
+          }
+        },
+        {
+          "id": "sebelum-salam-14",
+          "displayOrder": 14,
+          "sourceOrder": 14,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "sebelum-salam-14-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اَللَّهُمَّ إِنِّيْ أَسْأَلُكَ بِأَنِّيْ أَشْهَدُ أَنَّكَ أَنْتَ اللَّهُ لاَ إِلَـٰهَ إِلاَّ أَنْتَ اْلأَحَدُ الصَّمَدُ الَّذِيْ لَمْ يَلِدْ وَلَمْ يُوْلَدْ وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ",
+              "transliteration": "Allaahumma innii as-aluka bi-annii asyhadu annaka antallaah, laa ilaaha illaa antal ahadush-shomadul-ladzii lam yalid wa lam yuulad, wa lam yakun lahu kufuwan ahad.",
+              "meaning": "Ya Allah, aku mohon kepadaMu dengan bersaksi, bahwa Engkau adalah Allah, tidak ada sesembahan yang berhak disembah kecuali Engkau, Maha Esa, tidak membutuhkan sesuatu tapi segala sesuatu butuh kepadaMu, tidak beranak dan tidak diperanakkan, tidak seorang pun yang menyamaiNya, (sesungguhnya aku mohon kepadaMu)."
+            }
+          ],
+          "reference": {
+            "text": "HR. Abu Dawud 2/62. At-Tirmidzi 5/515, Ibnu Majah 2/1267, Ahmad 5/360, lihat Shahih Ibnu Majah 2/329 dan Shahih At-Tirmidzi 3/163.",
+            "evidenceType": "Hadis marfu’",
+            "note": null,
+            "context": null,
+            "sourceReference": "Hisnul Muslim.",
+            "url": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "salam",
+      "order": 10,
+      "name": "Salam",
+      "publishedCount": 4,
+      "readings": [
+        {
+          "id": "salam-01",
+          "displayOrder": 1,
+          "sourceOrder": 1,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "salam-01-s01",
+              "order": 1,
+              "label": "Ketika menoleh ke kanan dan ke kiri, mengucapkan salam",
+              "arabic": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ",
+              "transliteration": "As-salaamu 'alaikum wa rohmatullaahi wa barokaatuh.",
+              "meaning": "Semoga keselamatan atas kalian, demikian juga rahmat Allah dan berkah-Nya."
+            }
+          ],
+          "reference": {
+            "text": "HR. Abdurazaq dalam Mushannaf, 3129.",
+            "evidenceType": "Atsar sahabat",
+            "note": "Dari Abu Ubaidah, “Bahwa Ibnu Mas’ud radhiyallahu ‘anhu salam ke kanan dengan mengucapkan, ‘Assalamu alaikum wa rahmatullah wa barakatuh’ dan menoleh ke kiri dengan membaca, ‘Assalamu alaikum wa rahmatullah wa barakatuh’. Beliau mengeraskan keduanya.”\n\nHal yang sama juga dilakukan sahabat Ammar bin Yasir radhiyallahu ‘anhuma (Mushanaf Abdurazaq 3134).\n\nBerikut beberapa ketentuan salam dalam shalat:\n\n• Salam termasuk rukun shalat. Sehingga orang yang meninggalkan salam, baik dengan sengaja maupun lupa maka shalatnya batal.\n\nDari Ali bin Abi Thalib radhiyallahu ‘anhu, Rasulullah shallallahu ‘alaihi wa sallam bersabda, “Kunci shalat adalah bersuci, yang mengharamkannya adalah takbiratul ihram, dan yang menghalalkannya adalah salam.” (HR. Ahmad, Abu Daud, Turmudzi, dan dishahihkan Syuaib al-Arnauth).\n\nMakna:\n\n• Mengharamkannya: batas yang mengharamkan untuk melakukan kesibukan di luar shalat.\n\n• Menghalalkannya: batas yang menghalalkan untuk melakukan kesibukan di luar shalat.\n\n• Salam yang statusnya rukun shalat adalah salam pertama, sedangkan salam kedua hukumnya sunah. Rasulullah shallallahu ‘alaihi wa sallam pernah melakukan salam sekali.\n\nDari Anas bin Malik radhiyallahu ‘anhu, beliau menceritakan, “Bahwa Nabi shallallahu ‘alaihi wa sallam pernah melakukan salam sekali.” (HR. Baihaqi dan dishahihkan al-Albani).\n\n• Inti dari salam adalah bacaan “Assalamu alaikum wa rahmatullah…” dst. Sementara menoleh ketika salam, hukumnya anjuran dalam madzhab Syafiiyah. Sehingga shalat tetap sah, sekalipun tidak menoleh ketika salam.\n\nImam An-Nawawi mengatakan, “Jika ada orang yang mengucapkan salam dua kali ke kanan atau ke kiri, atau menghadap ke arah depan (tidak menoleh), shalatnya sah, sekalipun dia meninggalkan sunah.” (al-Majmu’ Syarh Muhadzab, 3/478).\n\n• Dianjurkan untuk menoleh secara maksimal ketika salam dua kali, sehingga pipi orang yang shalat kelihatan dari belakang.\n\nDari Sa’d bin Abi Waqqash radhiyallahu ‘anhu, beliau menceritakan, “Saya melihat Rasulullah shallallahu ‘alaihi wa sallam melakukan salam dengan menoleh ke kanan dan ke kiri. Hingga aku melihat putihnya pipi beliau.” (HR. Muslim 582).",
+            "context": null,
+            "sourceReference": "https://konsultasisyariah.com/21283-5-cara-salam-ketika-shalat.html",
+            "url": "https://konsultasisyariah.com/21283-5-cara-salam-ketika-shalat.html"
+          }
+        },
+        {
+          "id": "salam-02",
+          "displayOrder": 2,
+          "sourceOrder": 2,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "salam-02-s01",
+              "order": 1,
+              "label": "Ketika menoleh ke kanan, mengucapkan salam pertama",
+              "arabic": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ",
+              "transliteration": "As-salaamu 'alaikum wa rohmatullaahi wa barokaatuh.",
+              "meaning": "Semoga keselamatan atas kalian, demikian juga rahmat Allah dan berkah-Nya."
+            },
+            {
+              "id": "salam-02-s02",
+              "order": 2,
+              "label": "Ketika menoleh ke kiri, mengucapkan salam kedua",
+              "arabic": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ",
+              "transliteration": "As-salaamu 'alaikum wa rohmatullaah.",
+              "meaning": "Semoga keselamatan atas kalian, demikian juga rahmat Allah."
+            }
+          ],
+          "reference": {
+            "text": "HR. Abu Daud 997 dan dishahihkan al-Albani.",
+            "evidenceType": "Hadis marfu’",
+            "note": "Dari Wali bin Hujr radhiyallahu ‘anhu, beliau menceritakan, “Saya shalat bersama Nabi shallallahu ‘alaihi wa sallam. Beliau mengucapkan salam ketika menoleh ke kanan, ‘Assalamu alaikum wa rahmatullah wa barakatuh’ dan ketika menoleh ke kiri beliau mengucapkan, ‘Assalamu alaikum wa rahmatullah.’”",
+            "context": null,
+            "sourceReference": "https://konsultasisyariah.com/21283-5-cara-salam-ketika-shalat.html",
+            "url": "https://konsultasisyariah.com/21283-5-cara-salam-ketika-shalat.html"
+          }
+        },
+        {
+          "id": "salam-03",
+          "displayOrder": 3,
+          "sourceOrder": 3,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "salam-03-s01",
+              "order": 1,
+              "label": "Ketika menoleh ke kanan dan ke kiri, mengucapkan salam",
+              "arabic": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ",
+              "transliteration": "As-salaamu 'alaikum wa rohmatullaah.",
+              "meaning": "Semoga keselamatan atas kalian, demikian juga rahmat Allah."
+            }
+          ],
+          "reference": {
+            "text": "HR. Nasai, Abu Daud dan dishahihkan al-Albani.",
+            "evidenceType": "Hadis marfu’",
+            "note": "Dari Ibnu Mas’ud radhiyallahu ‘anhu, “Saya melihat Rasulullah shallallahu ‘alaihi wa sallam melakukan salam ke kanan dan ke kiri, mengucapkan ‘Assalamu alaikum wa rahmatullah’, hingga terlihat putihnya pipi beliau.”",
+            "context": null,
+            "sourceReference": "https://konsultasisyariah.com/21283-5-cara-salam-ketika-shalat.html",
+            "url": "https://konsultasisyariah.com/21283-5-cara-salam-ketika-shalat.html"
+          }
+        },
+        {
+          "id": "salam-04",
+          "displayOrder": 4,
+          "sourceOrder": 4,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "salam-04-s01",
+              "order": 1,
+              "label": "Ketika menoleh ke kanan, mengucapkan salam pertama",
+              "arabic": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ",
+              "transliteration": "As-salaamu 'alaikum wa rohmatullaah.",
+              "meaning": "Semoga keselamatan atas kalian, demikian juga rahmat Allah."
+            },
+            {
+              "id": "salam-04-s02",
+              "order": 2,
+              "label": "Ketika menoleh ke kiri, mengucapkan salam kedua",
+              "arabic": "اَلسَّلَامُ عَلَيْكُمْ",
+              "transliteration": "As-salaamu 'alaikum.",
+              "meaning": "Semoga keselamatan atas kalian."
+            }
+          ],
+          "reference": {
+            "text": "HR. Nasai dan dishahihkan Syuaib al-Arnauth.",
+            "evidenceType": "Hadis marfu’",
+            "note": "Dari Wasi’ bin Hibban, beliau pernah bertanya kepada Ibnu Umar tentang tata cara shalat Nabi shallallahu ‘alaihi wa sallam. Beliaupun mempraktekkannya, diantaranya, Wasi’ menyebutkan bahwa Ibnu Umar mengucapkan, ‘Assalamu alaikum wa rahmatullah’ ketika menoleh ke kanan, dan mengucapkan, ‘Assalamu alaikum’ ketika menoleh ke kiri.",
+            "context": null,
+            "sourceReference": "https://konsultasisyariah.com/21283-5-cara-salam-ketika-shalat.html",
+            "url": "https://konsultasisyariah.com/21283-5-cara-salam-ketika-shalat.html"
+          }
+        }
+      ]
+    }
+  ]
+}
