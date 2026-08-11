@@ -15,12 +15,13 @@ const EXPECTED_COUNTS: Record<string, number> = {
   tasyahhud: 7,
   shalawat_setelah_tasyahhud: 6,
   doa_sebelum_salam: 14,
-  salam: 4,
+  salam: 2,
 }
 
 const HELD_IDS = ['rukuk-02', 'sujud-02', 'duduk-dua-sujud-05', 'salam-05']
+const REMOVED_SALAM_IDS = ['salam-01', 'salam-02']
 
-const MULTI_SEGMENT_IDS = ['istiftah-01', 'salam-02', 'salam-04']
+const MULTI_SEGMENT_IDS = ['istiftah-01', 'salam-04']
 
 describe('Generated shalat data', () => {
   it('has exactly 10 sections in the correct order', () => {
@@ -30,23 +31,34 @@ describe('Generated shalat data', () => {
     })
   })
 
-  it('has exactly 79 published readings', () => {
+  it('has exactly 77 production readings', () => {
     const totalReadings = data.sections.reduce((sum, section) => sum + section.readings.length, 0)
-    expect(totalReadings).toBe(79)
+    expect(totalReadings).toBe(77)
   })
 
-  it('has exactly 82 published segments', () => {
+  it('has exactly 79 production segments', () => {
     const totalSegments = data.sections.reduce(
       (sum, section) => sum + section.readings.reduce((s, reading) => s + reading.segments.length, 0),
       0,
     )
-    expect(totalSegments).toBe(82)
+    expect(totalSegments).toBe(79)
   })
 
   it('excludes the four held reading IDs', () => {
     const allReadingIds = data.sections.flatMap((section) => section.readings.map((reading) => reading.id))
     for (const heldId of HELD_IDS) {
       expect(allReadingIds).not.toContain(heldId)
+    }
+  })
+
+  it('keeps only salam variations 3 and 4 and renumbers them', () => {
+    const salam = data.sections.find((section) => section.id === 'salam')
+    expect(salam?.readings.map((reading) => reading.id)).toEqual(['salam-03', 'salam-04'])
+    expect(salam?.readings.map((reading) => reading.displayOrder)).toEqual([1, 2])
+
+    const allReadingIds = data.sections.flatMap((section) => section.readings.map((reading) => reading.id))
+    for (const removedId of REMOVED_SALAM_IDS) {
+      expect(allReadingIds).not.toContain(removedId)
     }
   })
 

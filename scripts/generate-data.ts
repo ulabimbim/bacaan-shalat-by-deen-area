@@ -28,6 +28,7 @@ const REQUIRED_READING_COLUMNS = [
 const REQUIRED_SEGMENT_COLUMNS = ['teks_id', 'bacaan_id', 'urutan_segmen', 'label_segmen', 'teks_arab', 'transliterasi', 'arti']
 
 const HELD_IDS = new Set(['rukuk-02', 'sujud-02', 'duduk-dua-sujud-05', 'salam-05'])
+const PRODUCT_EXCLUDED_IDS = new Set(['salam-01', 'salam-02'])
 
 interface RawSection {
   urutan: number
@@ -210,7 +211,9 @@ function main(): void {
   const sectionIds = new Set(sections.map((s) => s.bagian_id))
 
   const allReadings = parseReadings(readSheet<Record<string, unknown>>(workbook, SHEET_READINGS), sectionIds)
-  const publishedReadings = allReadings.filter((r) => r.siap_publish === 'Ya')
+  const publishedReadings = allReadings.filter(
+    (r) => r.siap_publish === 'Ya' && !PRODUCT_EXCLUDED_IDS.has(r.bacaan_id),
+  )
   const publishedReadingIds = new Set(publishedReadings.map((r) => r.bacaan_id))
 
   for (const heldId of HELD_IDS) {
@@ -295,8 +298,8 @@ function main(): void {
   )
 
   assert(output.sections.length === 10, `Diharapkan 10 bagian, didapat ${output.sections.length}`)
-  assert(totalReadings === 79, `Diharapkan 79 bacaan publish, didapat ${totalReadings}`)
-  assert(totalSegments === 82, `Diharapkan 82 segmen publish, didapat ${totalSegments}`)
+  assert(totalReadings === 77, `Diharapkan 77 bacaan production, didapat ${totalReadings}`)
+  assert(totalSegments === 79, `Diharapkan 79 segmen production, didapat ${totalSegments}`)
 
   fs.mkdirSync(path.dirname(OUTPUT_PATH), { recursive: true })
   fs.writeFileSync(OUTPUT_PATH, JSON.stringify(output, null, 2))

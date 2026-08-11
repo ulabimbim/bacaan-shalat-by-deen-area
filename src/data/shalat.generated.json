@@ -1885,67 +1885,11 @@
       "id": "salam",
       "order": 10,
       "name": "Salam",
-      "publishedCount": 4,
+      "publishedCount": 2,
       "readings": [
         {
-          "id": "salam-01",
-          "displayOrder": 1,
-          "sourceOrder": 1,
-          "subcategory": null,
-          "segments": [
-            {
-              "id": "salam-01-s01",
-              "order": 1,
-              "label": "Ketika menoleh ke kanan dan ke kiri, mengucapkan salam",
-              "arabic": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ",
-              "transliteration": "As-salaamu 'alaikum wa rohmatullaahi wa barokaatuh.",
-              "meaning": "Semoga keselamatan atas kalian, demikian juga rahmat Allah dan berkah-Nya."
-            }
-          ],
-          "reference": {
-            "text": "HR. Abdurazaq dalam Mushannaf, 3129.",
-            "evidenceType": "Atsar sahabat",
-            "note": "Dari Abu Ubaidah, “Bahwa Ibnu Mas’ud radhiyallahu ‘anhu salam ke kanan dengan mengucapkan, ‘Assalamu alaikum wa rahmatullah wa barakatuh’ dan menoleh ke kiri dengan membaca, ‘Assalamu alaikum wa rahmatullah wa barakatuh’. Beliau mengeraskan keduanya.”\n\nHal yang sama juga dilakukan sahabat Ammar bin Yasir radhiyallahu ‘anhuma (Mushanaf Abdurazaq 3134).\n\nBerikut beberapa ketentuan salam dalam shalat:\n\n• Salam termasuk rukun shalat. Sehingga orang yang meninggalkan salam, baik dengan sengaja maupun lupa maka shalatnya batal.\n\nDari Ali bin Abi Thalib radhiyallahu ‘anhu, Rasulullah shallallahu ‘alaihi wa sallam bersabda, “Kunci shalat adalah bersuci, yang mengharamkannya adalah takbiratul ihram, dan yang menghalalkannya adalah salam.” (HR. Ahmad, Abu Daud, Turmudzi, dan dishahihkan Syuaib al-Arnauth).\n\nMakna:\n\n• Mengharamkannya: batas yang mengharamkan untuk melakukan kesibukan di luar shalat.\n\n• Menghalalkannya: batas yang menghalalkan untuk melakukan kesibukan di luar shalat.\n\n• Salam yang statusnya rukun shalat adalah salam pertama, sedangkan salam kedua hukumnya sunah. Rasulullah shallallahu ‘alaihi wa sallam pernah melakukan salam sekali.\n\nDari Anas bin Malik radhiyallahu ‘anhu, beliau menceritakan, “Bahwa Nabi shallallahu ‘alaihi wa sallam pernah melakukan salam sekali.” (HR. Baihaqi dan dishahihkan al-Albani).\n\n• Inti dari salam adalah bacaan “Assalamu alaikum wa rahmatullah…” dst. Sementara menoleh ketika salam, hukumnya anjuran dalam madzhab Syafiiyah. Sehingga shalat tetap sah, sekalipun tidak menoleh ketika salam.\n\nImam An-Nawawi mengatakan, “Jika ada orang yang mengucapkan salam dua kali ke kanan atau ke kiri, atau menghadap ke arah depan (tidak menoleh), shalatnya sah, sekalipun dia meninggalkan sunah.” (al-Majmu’ Syarh Muhadzab, 3/478).\n\n• Dianjurkan untuk menoleh secara maksimal ketika salam dua kali, sehingga pipi orang yang shalat kelihatan dari belakang.\n\nDari Sa’d bin Abi Waqqash radhiyallahu ‘anhu, beliau menceritakan, “Saya melihat Rasulullah shallallahu ‘alaihi wa sallam melakukan salam dengan menoleh ke kanan dan ke kiri. Hingga aku melihat putihnya pipi beliau.” (HR. Muslim 582).",
-            "context": null,
-            "sourceReference": "https://konsultasisyariah.com/21283-5-cara-salam-ketika-shalat.html",
-            "url": "https://konsultasisyariah.com/21283-5-cara-salam-ketika-shalat.html"
-          }
-        },
-        {
-          "id": "salam-02",
-          "displayOrder": 2,
-          "sourceOrder": 2,
-          "subcategory": null,
-          "segments": [
-            {
-              "id": "salam-02-s01",
-              "order": 1,
-              "label": "Ketika menoleh ke kanan, mengucapkan salam pertama",
-              "arabic": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ",
-              "transliteration": "As-salaamu 'alaikum wa rohmatullaahi wa barokaatuh.",
-              "meaning": "Semoga keselamatan atas kalian, demikian juga rahmat Allah dan berkah-Nya."
-            },
-            {
-              "id": "salam-02-s02",
-              "order": 2,
-              "label": "Ketika menoleh ke kiri, mengucapkan salam kedua",
-              "arabic": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ",
-              "transliteration": "As-salaamu 'alaikum wa rohmatullaah.",
-              "meaning": "Semoga keselamatan atas kalian, demikian juga rahmat Allah."
-            }
-          ],
-          "reference": {
-            "text": "HR. Abu Daud 997 dan dishahihkan al-Albani.",
-            "evidenceType": "Hadis marfu’",
-            "note": "Dari Wali bin Hujr radhiyallahu ‘anhu, beliau menceritakan, “Saya shalat bersama Nabi shallallahu ‘alaihi wa sallam. Beliau mengucapkan salam ketika menoleh ke kanan, ‘Assalamu alaikum wa rahmatullah wa barakatuh’ dan ketika menoleh ke kiri beliau mengucapkan, ‘Assalamu alaikum wa rahmatullah.’”",
-            "context": null,
-            "sourceReference": "https://konsultasisyariah.com/21283-5-cara-salam-ketika-shalat.html",
-            "url": "https://konsultasisyariah.com/21283-5-cara-salam-ketika-shalat.html"
-          }
-        },
-        {
           "id": "salam-03",
-          "displayOrder": 3,
+          "displayOrder": 1,
           "sourceOrder": 3,
           "subcategory": null,
           "segments": [
@@ -1969,7 +1913,7 @@
         },
         {
           "id": "salam-04",
-          "displayOrder": 4,
+          "displayOrder": 2,
           "sourceOrder": 4,
           "subcategory": null,
           "segments": [
