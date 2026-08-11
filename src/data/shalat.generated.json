@@ -5,12 +5,36 @@
       "id": "doa_istiftah",
       "order": 1,
       "name": "Doa Istiftah",
-      "publishedCount": 12,
+      "publishedCount": 13,
       "readings": [
         {
-          "id": "istiftah-01",
+          "id": "istiftah-tanbih-01",
           "displayOrder": 1,
           "sourceOrder": 1,
+          "subcategory": "Umum",
+          "segments": [
+            {
+              "id": "istiftah-tanbih-01-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "وجَّهتُ وجهِيَ للَّذي فطرَ السَّماواتِ والأرضَ حَنيفًا مُسلمًا وما أَنا منَ المشرِكينَ، إنَّ صلاتي ونُسُكي ومَحيايَ ومَماتي للَّهِ ربِّ العالمينَ لا شريكَ لَهُ وبذلِكَ أُمِرتُ وأَنا منَ المُسلمينَ",
+              "transliteration": "Wajjahtu wajhiya lilladzii fatharas samaawaati wal ardha haniifam muslimaw wamaa ana minal musyrikiin. inna shalaatii wa nusukii wa mahyaaya wa mamaatii lillaahi rabbil ‘aalamiin, laa syariikalahu wa bidzaalika umirtu wa ana minal muslimiin",
+              "meaning": "Kuhadapkan wajahku kepada zat yang telah menciptakan langit dan bumi dengan penuh ketulusan dan kepasrahan dan aku bukanlah termasuk orang-orang yang musyrik. Sesungguhnya sholatku, ibadahku, hidupku dan matiku semuanya untuk Allah, penguasa alam semesta. Tidak ada sekutu bagi-Nya dan dengan demikianlah aku diperintahkan dan aku termasuk orang-orang yang muslim."
+            }
+          ],
+          "reference": {
+            "text": "HR. Muslim, Nasa’i",
+            "evidenceType": "Hadis",
+            "note": null,
+            "context": null,
+            "sourceReference": "Abu Ishaq Ibrahim bin Ali bin Yusuf Al-Syirazi, At-Tanbih fi Furu' al-Fiqh Asy-Syafi'i, cet. 1 (Beirut: Dar al-Fikr, 1417 H/1996 M), jil. 1, hlm. 27.",
+            "url": null
+          }
+        },
+        {
+          "id": "istiftah-01",
+          "displayOrder": 2,
+          "sourceOrder": 2,
           "subcategory": "Umum",
           "segments": [
             {
@@ -41,8 +65,8 @@
         },
         {
           "id": "istiftah-02",
-          "displayOrder": 2,
-          "sourceOrder": 2,
+          "displayOrder": 3,
+          "sourceOrder": 3,
           "subcategory": "Umum",
           "segments": [
             {
@@ -65,8 +89,8 @@
         },
         {
           "id": "istiftah-03",
-          "displayOrder": 3,
-          "sourceOrder": 3,
+          "displayOrder": 4,
+          "sourceOrder": 4,
           "subcategory": "Umum",
           "segments": [
             {
@@ -89,8 +113,8 @@
         },
         {
           "id": "istiftah-04",
-          "displayOrder": 4,
-          "sourceOrder": 4,
+          "displayOrder": 5,
+          "sourceOrder": 5,
           "subcategory": "Umum",
           "segments": [
             {
@@ -113,8 +137,8 @@
         },
         {
           "id": "istiftah-05",
-          "displayOrder": 5,
-          "sourceOrder": 5,
+          "displayOrder": 6,
+          "sourceOrder": 6,
           "subcategory": "Shalat malam",
           "segments": [
             {
@@ -137,8 +161,8 @@
         },
         {
           "id": "istiftah-06",
-          "displayOrder": 6,
-          "sourceOrder": 6,
+          "displayOrder": 7,
+          "sourceOrder": 7,
           "subcategory": "Shalat malam",
           "segments": [
             {
@@ -161,8 +185,8 @@
         },
         {
           "id": "istiftah-07",
-          "displayOrder": 7,
-          "sourceOrder": 7,
+          "displayOrder": 8,
+          "sourceOrder": 8,
           "subcategory": "Umum",
           "segments": [
             {
@@ -185,8 +209,8 @@
         },
         {
           "id": "istiftah-08",
-          "displayOrder": 8,
-          "sourceOrder": 8,
+          "displayOrder": 9,
+          "sourceOrder": 9,
           "subcategory": "Umum",
           "segments": [
             {
@@ -209,8 +233,8 @@
         },
         {
           "id": "istiftah-09",
-          "displayOrder": 9,
-          "sourceOrder": 9,
+          "displayOrder": 10,
+          "sourceOrder": 10,
           "subcategory": "Umum",
           "segments": [
             {
@@ -233,8 +257,8 @@
         },
         {
           "id": "istiftah-malam-01",
-          "displayOrder": 10,
-          "sourceOrder": 10,
+          "displayOrder": 11,
+          "sourceOrder": 11,
           "subcategory": "Shalat malam",
           "segments": [
             {
@@ -257,8 +281,8 @@
         },
         {
           "id": "istiftah-malam-02",
-          "displayOrder": 11,
-          "sourceOrder": 11,
+          "displayOrder": 12,
+          "sourceOrder": 12,
           "subcategory": "Shalat malam",
           "segments": [
             {
@@ -281,8 +305,8 @@
         },
         {
           "id": "istiftah-malam-03",
-          "displayOrder": 12,
-          "sourceOrder": 12,
+          "displayOrder": 13,
+          "sourceOrder": 13,
           "subcategory": "Shalat malam",
           "segments": [
             {
@@ -565,7 +589,7 @@
       "id": "itidal",
       "order": 4,
       "name": "I‘tidal",
-      "publishedCount": 12,
+      "publishedCount": 14,
       "readings": [
         {
           "id": "itidal-01",
@@ -616,9 +640,57 @@
           }
         },
         {
-          "id": "itidal-03",
+          "id": "itidal-tanbih-01",
           "displayOrder": 3,
           "sourceOrder": 3,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "itidal-tanbih-01-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "رَبَّنَا لَكَ الْحَمْدُ، مِلْءَ السَّمَاوَاتِ وَالْأَرْضِ، وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ بَعْدُ، أَهْلَ الثَّنَاءِ وَالْمَجْدِ، أَحَقُّ مَا قَالَ الْعَبْدُ، وَكُلُّنَا لَكَ عَبْدٌ، اَللَّهُمَّ لَا مَانِعَ لِمَا أَعْطَيْتَ، وَلَا مُعْطِيَ لِمَا مَنَعْتَ، وَلَا يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَدُّ",
+              "transliteration": "Rabbanaa lakal hamdu, Mil-assamaawaati wal ardhi, wa mil-a maa syi’ta min syai-in ba’du, ahlats-tsanaai wal majdi, ahaqqu maa qoolal ‘abdu, wa kullunaa laka ‘abdun, allaahumma laa maani’a limaa a’thaita, wa laa mu’thiya limaa mana’ta, wa laa yanfa’u dzal jaddi minkal jadd.",
+              "meaning": "Sepenuh langit dan sepenuh bumi, dan sepenuh apa yang Engkau inginkan dari sesuatu setelahnya. Engkau adalah Dzat yang berhak mendapat pujian dan kemuliaan. (Ucapan ini) yang paling pantas diucapkan seorang hamba, dan semua kami adalah hamba-Mu semata. Ya Allah, tidak ada yang bisa menahan apa yang Engkau berikan, dan tidak ada yang bisa memberikan apa yang Engkau tahan. Tidak bermanfaat bagi-Mu kemuliaan/kedudukan orang yang memiliki kemuliaan."
+            }
+          ],
+          "reference": {
+            "text": "HR. Muslim",
+            "evidenceType": "Hadis",
+            "note": null,
+            "context": null,
+            "sourceReference": null,
+            "url": null
+          }
+        },
+        {
+          "id": "itidal-tanbih-02",
+          "displayOrder": 4,
+          "sourceOrder": 4,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "itidal-tanbih-02-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "رَبَّنَا لَكَ الْحَمْدُ، مِلْءَ السَّمَاوَاتِ وَالْأَرْضِ، وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ بَعْدُ",
+              "transliteration": "Rabbanaa lakal hamdu, Mil-assamaawaati wal ardhi, wa mil-a maa syi’ta min syai-in ba’du",
+              "meaning": "Sepenuh langit dan sepenuh bumi, dan sepenuh apa yang Engkau inginkan dari sesuatu setelahnya."
+            }
+          ],
+          "reference": {
+            "text": null,
+            "evidenceType": null,
+            "note": null,
+            "context": null,
+            "sourceReference": "Abu Ishaq Ibrahim bin Ali bin Yusuf Al-Syirazi, At-Tanbih fi Furu' al-Fiqh Asy-Syafi'i, cet. 1 (Beirut: Dar al-Fikr, 1417 H/1996 M), jil. 1, hlm. 27.",
+            "url": null
+          }
+        },
+        {
+          "id": "itidal-03",
+          "displayOrder": 5,
+          "sourceOrder": 5,
           "subcategory": null,
           "segments": [
             {
@@ -641,8 +713,8 @@
         },
         {
           "id": "itidal-04",
-          "displayOrder": 4,
-          "sourceOrder": 4,
+          "displayOrder": 6,
+          "sourceOrder": 6,
           "subcategory": null,
           "segments": [
             {
@@ -665,8 +737,8 @@
         },
         {
           "id": "itidal-05",
-          "displayOrder": 5,
-          "sourceOrder": 5,
+          "displayOrder": 7,
+          "sourceOrder": 7,
           "subcategory": null,
           "segments": [
             {
@@ -689,8 +761,8 @@
         },
         {
           "id": "itidal-06",
-          "displayOrder": 6,
-          "sourceOrder": 6,
+          "displayOrder": 8,
+          "sourceOrder": 8,
           "subcategory": null,
           "segments": [
             {
@@ -713,8 +785,8 @@
         },
         {
           "id": "itidal-07",
-          "displayOrder": 7,
-          "sourceOrder": 7,
+          "displayOrder": 9,
+          "sourceOrder": 9,
           "subcategory": null,
           "segments": [
             {
@@ -737,8 +809,8 @@
         },
         {
           "id": "itidal-08",
-          "displayOrder": 8,
-          "sourceOrder": 8,
+          "displayOrder": 10,
+          "sourceOrder": 10,
           "subcategory": null,
           "segments": [
             {
@@ -761,8 +833,8 @@
         },
         {
           "id": "itidal-09",
-          "displayOrder": 9,
-          "sourceOrder": 9,
+          "displayOrder": 11,
+          "sourceOrder": 11,
           "subcategory": null,
           "segments": [
             {
@@ -785,8 +857,8 @@
         },
         {
           "id": "itidal-10",
-          "displayOrder": 10,
-          "sourceOrder": 10,
+          "displayOrder": 12,
+          "sourceOrder": 12,
           "subcategory": null,
           "segments": [
             {
@@ -809,8 +881,8 @@
         },
         {
           "id": "itidal-11",
-          "displayOrder": 11,
-          "sourceOrder": 11,
+          "displayOrder": 13,
+          "sourceOrder": 13,
           "subcategory": null,
           "segments": [
             {
@@ -833,8 +905,8 @@
         },
         {
           "id": "itidal-12",
-          "displayOrder": 12,
-          "sourceOrder": 12,
+          "displayOrder": 14,
+          "sourceOrder": 14,
           "subcategory": null,
           "segments": [
             {
@@ -1389,12 +1461,36 @@
       "id": "shalawat_setelah_tasyahhud",
       "order": 8,
       "name": "Shalawat Setelah Tasyahhud",
-      "publishedCount": 6,
+      "publishedCount": 7,
       "readings": [
         {
-          "id": "shalawat-01",
+          "id": "shalawat-tanbih-01",
           "displayOrder": 1,
           "sourceOrder": 1,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "shalawat-tanbih-01-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "اللّهُمَّ صَلِّ عَلَى مُحَمَّدٍ، وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلّيْتَ عَلَى إبْرَاهِيمَ، وَعَلَى آلِ إبْرَاهِيمَ، وَبَارِكْ عَلَى مُحَمَّدٍ، وَعَلَى آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَى إبْرَاهِيمَ، وَعَلَى آلِ إبْرَاهِيمَ إنَّكَ حَمِيدٌ مَجِيدٌ",
+              "transliteration": "Allaahumma sholli ‘alaa muhammad, wa’alaa aali muhammad, kamaa shollaita ‘alaa ibraahiim wa’alaa aali ibraahiim, wabaarik ‘alaa muhammad wa’alaa aalii muhammad, kamaa baarokta ‘alaa ibraahiim wa’alaa aali ibraahiim, innaka hamiidum majiid.",
+              "meaning": "Ya Allah, limpahkanlah rahmat atas Muhammad dan keluarga Muhammad sebagaimana telah Engkau limpahkan rahmat atas Ibrahim dan keluarga Ibrahim. Berkahilah Muhammad dan keluarga Muhammad sebagaimana Engkau telah memberkahi Ibrahim dan keluarga Ibrahim. Engkau Maha Terpuji dan Mahaagung."
+            }
+          ],
+          "reference": {
+            "text": "HR. Muslim",
+            "evidenceType": "Hadis",
+            "note": null,
+            "context": null,
+            "sourceReference": "Abu Ishaq Ibrahim bin Ali bin Yusuf Al-Syirazi, At-Tanbih fi Furu' al-Fiqh Asy-Syafi'i, cet. 1 (Beirut: Dar al-Fikr, 1417 H/1996 M), jil. 1, hlm. 28.",
+            "url": null
+          }
+        },
+        {
+          "id": "shalawat-01",
+          "displayOrder": 2,
+          "sourceOrder": 2,
           "subcategory": "Dari Ka’ab bin Ujrah",
           "segments": [
             {
@@ -1417,8 +1513,8 @@
         },
         {
           "id": "shalawat-02",
-          "displayOrder": 2,
-          "sourceOrder": 2,
+          "displayOrder": 3,
+          "sourceOrder": 3,
           "subcategory": "Dari Abu Mas’ud Al-Anshari",
           "segments": [
             {
@@ -1441,8 +1537,8 @@
         },
         {
           "id": "shalawat-03",
-          "displayOrder": 3,
-          "sourceOrder": 3,
+          "displayOrder": 4,
+          "sourceOrder": 4,
           "subcategory": "Dari Abu Mas’ud Al-Anshari",
           "segments": [
             {
@@ -1465,8 +1561,8 @@
         },
         {
           "id": "shalawat-04",
-          "displayOrder": 4,
-          "sourceOrder": 4,
+          "displayOrder": 5,
+          "sourceOrder": 5,
           "subcategory": "Dari Abu Thalhah",
           "segments": [
             {
@@ -1489,8 +1585,8 @@
         },
         {
           "id": "shalawat-05",
-          "displayOrder": 5,
-          "sourceOrder": 5,
+          "displayOrder": 6,
+          "sourceOrder": 6,
           "subcategory": null,
           "segments": [
             {
@@ -1513,8 +1609,8 @@
         },
         {
           "id": "shalawat-06",
-          "displayOrder": 6,
-          "sourceOrder": 6,
+          "displayOrder": 7,
+          "sourceOrder": 7,
           "subcategory": "Dari Amr Bin Hazm",
           "segments": [
             {

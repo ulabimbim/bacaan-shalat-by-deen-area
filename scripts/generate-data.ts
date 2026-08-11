@@ -298,8 +298,8 @@ function main(): void {
   )
 
   assert(output.sections.length === 10, `Diharapkan 10 bagian, didapat ${output.sections.length}`)
-  assert(totalReadings === 77, `Diharapkan 77 bacaan production, didapat ${totalReadings}`)
-  assert(totalSegments === 79, `Diharapkan 79 segmen production, didapat ${totalSegments}`)
+  assert(totalReadings === 81, `Diharapkan 81 bacaan production, didapat ${totalReadings}`)
+  assert(totalSegments === 83, `Diharapkan 83 segmen production, didapat ${totalSegments}`)
 
   fs.mkdirSync(path.dirname(OUTPUT_PATH), { recursive: true })
   fs.writeFileSync(OUTPUT_PATH, JSON.stringify(output, null, 2))

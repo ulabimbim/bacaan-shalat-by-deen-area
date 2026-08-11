@@ -6,14 +6,14 @@ import rawData from '../data/shalat.generated.json'
 const data: ShalatData = rawData as ShalatData
 
 const EXPECTED_COUNTS: Record<string, number> = {
-  doa_istiftah: 12,
+  doa_istiftah: 13,
   taawudz: 3,
   rukuk: 7,
-  itidal: 12,
+  itidal: 14,
   sujud: 10,
   duduk_antara_dua_sujud: 4,
   tasyahhud: 7,
-  shalawat_setelah_tasyahhud: 6,
+  shalawat_setelah_tasyahhud: 7,
   doa_sebelum_salam: 14,
   salam: 2,
 }
@@ -31,17 +31,17 @@ describe('Generated shalat data', () => {
     })
   })
 
-  it('has exactly 77 production readings', () => {
+  it('has exactly 81 production readings', () => {
     const totalReadings = data.sections.reduce((sum, section) => sum + section.readings.length, 0)
-    expect(totalReadings).toBe(77)
+    expect(totalReadings).toBe(81)
   })
 
-  it('has exactly 79 production segments', () => {
+  it('has exactly 83 production segments', () => {
     const totalSegments = data.sections.reduce(
       (sum, section) => sum + section.readings.reduce((s, reading) => s + reading.segments.length, 0),
       0,
     )
-    expect(totalSegments).toBe(79)
+    expect(totalSegments).toBe(83)
   })
 
   it('excludes the four held reading IDs', () => {
@@ -60,6 +60,25 @@ describe('Generated shalat data', () => {
     for (const removedId of REMOVED_SALAM_IDS) {
       expect(allReadingIds).not.toContain(removedId)
     }
+  })
+
+  it('places the requested additions at their specified variation numbers', () => {
+    const istiftah = data.sections.find((section) => section.id === 'doa_istiftah')
+    expect(istiftah?.readings[0].id).toBe('istiftah-tanbih-01')
+    expect(istiftah?.readings[0].displayOrder).toBe(1)
+
+    const itidal = data.sections.find((section) => section.id === 'itidal')
+    expect(itidal?.readings.slice(0, 4).map((reading) => reading.id)).toEqual([
+      'itidal-01',
+      'itidal-02',
+      'itidal-tanbih-01',
+      'itidal-tanbih-02',
+    ])
+    expect(itidal?.readings.slice(0, 4).map((reading) => reading.displayOrder)).toEqual([1, 2, 3, 4])
+
+    const shalawat = data.sections.find((section) => section.id === 'shalawat_setelah_tasyahhud')
+    expect(shalawat?.readings[0].id).toBe('shalawat-tanbih-01')
+    expect(shalawat?.readings[0].displayOrder).toBe(1)
   })
 
   it('matches the published count per section', () => {
