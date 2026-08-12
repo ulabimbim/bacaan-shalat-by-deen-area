@@ -41,7 +41,7 @@ export default defineConfig({
         globIgnores: ['**/node_modules/**/*', '**/assets/*.js?*'],
         maximumFileSizeToCacheInBytes: 4 * 1024 * 1024,
       },
-      includeAssets: ['favicon.svg', 'icon-192.png', 'icon-512.png', 'icon-maskable.png'],
+      includeAssets: ['favicon-32.png', 'apple-touch-icon.png', 'icon-192.png', 'icon-512.png', 'icon-maskable.png'],
     }),
   ],
   build: {

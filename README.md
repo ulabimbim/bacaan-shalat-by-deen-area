@@ -79,7 +79,8 @@ Build akan menghasilkan folder `dist/` yang siap di-deploy sebagai static site.
 
 - `data/source/Database_Variasi_Bacaan_Shalat_Terkurasi.xlsx` — sumber data asli.
 - `scripts/generate-data.ts` — skrip build-time untuk membaca workbook dan menghasilkan JSON.
-- `scripts/generate-icons.ts` — skrip build-time untuk menghasilkan ikon PWA dari SVG.
+- `scripts/generate-icons.ts` — skrip build-time untuk menghasilkan favicon dan ikon PWA dari logo PNG.
+- `assets/Logo Bacaan Shalat.png` — sumber logo untuk favicon, Apple touch icon, dan ikon PWA.
 - `src/data/shalat.generated.json` — data yang dibundle bersama aplikasi.
 
 ## Fitur
