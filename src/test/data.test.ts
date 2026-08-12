@@ -61,6 +61,11 @@ describe('Generated shalat data', () => {
     expect(sujud?.readings[1].displayOrder).toBe(2)
   })
 
+  it('does not publish promotional notes for the added rukuk and sujud readings', () => {
+    expect(getReadingById('rukuk', 'rukuk-02')?.reference.note).toBeNull()
+    expect(getReadingById('sujud', 'sujud-02')?.reference.note).toBeNull()
+  })
+
   it('keeps only salam variations 3 and 4 and renumbers them', () => {
     const salam = data.sections.find((section) => section.id === 'salam')
     expect(salam?.readings.map((reading) => reading.id)).toEqual(['salam-03', 'salam-04'])
