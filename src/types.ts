@@ -15,7 +15,6 @@ export interface Reading {
   segments: Segment[]
   reference: {
     text: string | null
-    evidenceType: string | null
     note: string | null
     context: string | null
     sourceReference: string | null

@@ -17,7 +17,6 @@ const REQUIRED_READING_COLUMNS = [
   'bagian_id',
   'subkategori',
   'rujukan_hadis',
-  'jenis_dalil',
   'keterangan',
   'konteks_penggunaan',
   'sumber_referensi',
@@ -43,7 +42,6 @@ interface RawReading {
   bagian_id: string
   subkategori: string | null
   rujukan_hadis: string | null
-  jenis_dalil: string | null
   keterangan: string | null
   konteks_penggunaan: string | null
   sumber_referensi: string | null
@@ -148,7 +146,6 @@ function parseReadings(rows: Record<string, unknown>[], validSectionIds: Set<str
       bagian_id: sectionId,
       subkategori: normalizeCell(row.subkategori),
       rujukan_hadis: normalizeCell(row.rujukan_hadis),
-      jenis_dalil: normalizeCell(row.jenis_dalil),
       keterangan: normalizeCell(row.keterangan),
       konteks_penggunaan: normalizeCell(row.konteks_penggunaan),
       sumber_referensi: normalizeCell(row.sumber_referensi),
@@ -278,7 +275,6 @@ function main(): void {
               })),
               reference: {
                 text: reading.rujukan_hadis,
-                evidenceType: reading.jenis_dalil,
                 note: reading.keterangan,
                 context: reading.konteks_penggunaan,
                 sourceReference: reading.sumber_referensi,

@@ -57,6 +57,16 @@ describe('Detail page', () => {
     expect(screen.getByRole('heading', { name: /Bacaan Shalat/iu })).toBeInTheDocument()
   })
 
+  it('does not show the Jenis dalil field in source details', async () => {
+    const user = userEvent.setup()
+    render(<App />)
+
+    await user.click(screen.getByText('Sumber dan keterangan'))
+
+    expect(screen.queryByText('Jenis dalil')).not.toBeInTheDocument()
+    expect(screen.getByText('Rujukan')).toBeInTheDocument()
+  })
+
   it('shows not found for a held reading deep link', async () => {
     window.location.hash = '#/bagian/rukuk?bacaan=rukuk-02'
     render(<App />)

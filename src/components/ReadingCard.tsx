@@ -52,12 +52,6 @@ export const ReadingCard = forwardRef<HTMLElement, ReadingCardProps>(function Re
               <p>{reading.reference.text}</p>
             </div>
           )}
-          {reading.reference.evidenceType && (
-            <div className="source-field">
-              <span className="source-label">Jenis dalil</span>
-              <p>{reading.reference.evidenceType}</p>
-            </div>
-          )}
           {reading.reference.note && (
             <div className="source-field">
               <span className="source-label">Keterangan</span>
