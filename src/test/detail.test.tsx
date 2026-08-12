@@ -13,7 +13,7 @@ describe('Detail page', () => {
     render(<App />)
 
     await waitFor(() => {
-      expect(screen.getByText(/Variasi 1 dari 7/iu)).toBeInTheDocument()
+      expect(screen.getByText(/Variasi 1 dari 8/iu)).toBeInTheDocument()
     })
 
     const previousButton = screen.getByRole('button', { name: /Sebelumnya/iu })
@@ -23,11 +23,11 @@ describe('Detail page', () => {
     expect(nextButton).not.toBeDisabled()
 
     await user.click(nextButton)
-    expect(screen.getByText(/Variasi 2 dari 7/iu)).toBeInTheDocument()
+    expect(screen.getByText(/Variasi 2 dari 8/iu)).toBeInTheDocument()
     expect(previousButton).not.toBeDisabled()
 
     await user.click(previousButton)
-    expect(screen.getByText(/Variasi 1 dari 7/iu)).toBeInTheDocument()
+    expect(screen.getByText(/Variasi 1 dari 8/iu)).toBeInTheDocument()
     expect(previousButton).toBeDisabled()
   })
 
@@ -36,7 +36,7 @@ describe('Detail page', () => {
     render(<App />)
 
     await waitFor(() => {
-      expect(screen.getByText(/Variasi 7 dari 7/iu)).toBeInTheDocument()
+      expect(screen.getByText(/Variasi 8 dari 8/iu)).toBeInTheDocument()
     })
 
     expect(screen.getByRole('button', { name: /Berikutnya/iu })).toBeDisabled()
@@ -48,7 +48,7 @@ describe('Detail page', () => {
     render(<App />)
 
     await waitFor(() => {
-      expect(screen.getByText(/Variasi 1 dari 7/iu)).toBeInTheDocument()
+      expect(screen.getByText(/Variasi 1 dari 8/iu)).toBeInTheDocument()
     })
 
     const backButton = screen.getByRole('button', { name: /Kembali ke Urutan Shalat/iu })
@@ -68,7 +68,7 @@ describe('Detail page', () => {
   })
 
   it('shows not found for a held reading deep link', async () => {
-    window.location.hash = '#/bagian/rukuk?bacaan=rukuk-02'
+    window.location.hash = '#/bagian/salam?bacaan=salam-05'
     render(<App />)
 
     await waitFor(() => {

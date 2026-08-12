@@ -26,7 +26,7 @@ const REQUIRED_READING_COLUMNS = [
 ]
 const REQUIRED_SEGMENT_COLUMNS = ['teks_id', 'bacaan_id', 'urutan_segmen', 'label_segmen', 'teks_arab', 'transliterasi', 'arti']
 
-const HELD_IDS = new Set(['rukuk-02', 'sujud-02', 'duduk-dua-sujud-05', 'salam-05'])
+const HELD_IDS = new Set(['duduk-dua-sujud-05', 'salam-05'])
 const PRODUCT_EXCLUDED_IDS = new Set(['salam-01', 'salam-02'])
 
 interface RawSection {
@@ -294,8 +294,8 @@ function main(): void {
   )
 
   assert(output.sections.length === 10, `Diharapkan 10 bagian, didapat ${output.sections.length}`)
-  assert(totalReadings === 81, `Diharapkan 81 bacaan production, didapat ${totalReadings}`)
-  assert(totalSegments === 83, `Diharapkan 83 segmen production, didapat ${totalSegments}`)
+  assert(totalReadings === 83, `Diharapkan 83 bacaan production, didapat ${totalReadings}`)
+  assert(totalSegments === 85, `Diharapkan 85 segmen production, didapat ${totalSegments}`)
 
   fs.mkdirSync(path.dirname(OUTPUT_PATH), { recursive: true })
   fs.writeFileSync(OUTPUT_PATH, JSON.stringify(output, null, 2))

@@ -23,14 +23,14 @@ describe('Home page', () => {
     expect(names).toEqual(data.sections.map((section) => section.name))
   })
 
-  it('opens Rukuk detail showing variation 1 of 7', async () => {
+  it('opens Rukuk detail showing variation 1 of 8', async () => {
     const user = userEvent.setup()
     render(<App />)
 
     const rukukButton = screen.getByRole('button', { name: /Rukuk/iu })
     await user.click(rukukButton)
 
-    expect(screen.getByText(/Variasi 1 dari 7/iu)).toBeInTheDocument()
+    expect(screen.getByText(/Variasi 1 dari 8/iu)).toBeInTheDocument()
     expect(screen.getByRole('button', { name: /Sebelumnya/iu })).toBeDisabled()
   })
 

@@ -8,9 +8,9 @@ const data: ShalatData = rawData as ShalatData
 const EXPECTED_COUNTS: Record<string, number> = {
   doa_istiftah: 13,
   taawudz: 3,
-  rukuk: 7,
+  rukuk: 8,
   itidal: 14,
-  sujud: 10,
+  sujud: 11,
   duduk_antara_dua_sujud: 4,
   tasyahhud: 7,
   shalawat_setelah_tasyahhud: 7,
@@ -18,7 +18,7 @@ const EXPECTED_COUNTS: Record<string, number> = {
   salam: 2,
 }
 
-const HELD_IDS = ['rukuk-02', 'sujud-02', 'duduk-dua-sujud-05', 'salam-05']
+const HELD_IDS = ['duduk-dua-sujud-05', 'salam-05']
 const REMOVED_SALAM_IDS = ['salam-01', 'salam-02']
 
 const MULTI_SEGMENT_IDS = ['istiftah-01', 'salam-04']
@@ -31,24 +31,34 @@ describe('Generated shalat data', () => {
     })
   })
 
-  it('has exactly 81 production readings', () => {
+  it('has exactly 83 production readings', () => {
     const totalReadings = data.sections.reduce((sum, section) => sum + section.readings.length, 0)
-    expect(totalReadings).toBe(81)
+    expect(totalReadings).toBe(83)
   })
 
-  it('has exactly 83 production segments', () => {
+  it('has exactly 85 production segments', () => {
     const totalSegments = data.sections.reduce(
       (sum, section) => sum + section.readings.reduce((s, reading) => s + reading.segments.length, 0),
       0,
     )
-    expect(totalSegments).toBe(83)
+    expect(totalSegments).toBe(85)
   })
 
-  it('excludes the four held reading IDs', () => {
+  it('excludes the remaining held reading IDs', () => {
     const allReadingIds = data.sections.flatMap((section) => section.readings.map((reading) => reading.id))
     for (const heldId of HELD_IDS) {
       expect(allReadingIds).not.toContain(heldId)
     }
+  })
+
+  it('publishes rukuk and sujud additions as variation 2', () => {
+    const rukuk = data.sections.find((section) => section.id === 'rukuk')
+    expect(rukuk?.readings[1].id).toBe('rukuk-02')
+    expect(rukuk?.readings[1].displayOrder).toBe(2)
+
+    const sujud = data.sections.find((section) => section.id === 'sujud')
+    expect(sujud?.readings[1].id).toBe('sujud-02')
+    expect(sujud?.readings[1].displayOrder).toBe(2)
   })
 
   it('keeps only salam variations 3 and 4 and renumbers them', () => {
@@ -145,7 +155,7 @@ describe('Generated shalat data', () => {
     const reading = getReadingById('rukuk', 'rukuk-01')
     expect(reading).toBeDefined()
     expect(reading?.displayOrder).toBe(1)
-    expect(getReadingById('rukuk', 'rukuk-02')).toBeUndefined()
+    expect(getReadingById('rukuk', 'rukuk-02')?.displayOrder).toBe(2)
     expect(getReadingById('tidak-ada', 'rukuk-01')).toBeUndefined()
   })
 })

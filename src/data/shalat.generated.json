@@ -397,7 +397,7 @@
       "id": "rukuk",
       "order": 3,
       "name": "Rukuk",
-      "publishedCount": 7,
+      "publishedCount": 8,
       "readings": [
         {
           "id": "rukuk-01",
@@ -423,8 +423,31 @@
           }
         },
         {
-          "id": "rukuk-03",
+          "id": "rukuk-02",
           "displayOrder": 2,
+          "sourceOrder": 2,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "rukuk-02-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "سُبْحَانَ رَبِّيَ الْعَظِيْمِ وَبِحَمْدِهِ",
+              "transliteration": "Subhaana robbiyal 'azhiimi wa bihamdih (3x).",
+              "meaning": "Maha Suci Tuhanku Yang Maha Agung, dan dengan pujian untuk-Nya (3x)."
+            }
+          ],
+          "reference": {
+            "text": "HR. Abu Daud no. 870. Al Hafizh Abu Thohir mengatakan bahwa hadits ini shahih, begitu pula Syaikh Al Albani dalam Shifat Shalat Nabi, hal. 115. Kata Syaikh Al Albani hadits ini diriwayatkan pula oleh Ad Daruquthni, Ahmad, Ath Thobroni, dan Al Baihaqi.",
+            "note": "Dibagikan melalui aplikasi \"Apa Doanya\". Tersedia untuk Android, iOS, dan Windows. Unduh di http://bit.ly/doasunnah  #apadoanya",
+            "context": null,
+            "sourceReference": "http://rumaysho.com/shalat/sifat-shalat-nabi-6-7045",
+            "url": "http://rumaysho.com/shalat/sifat-shalat-nabi-6-7045"
+          }
+        },
+        {
+          "id": "rukuk-03",
+          "displayOrder": 3,
           "sourceOrder": 3,
           "subcategory": null,
           "segments": [
@@ -447,7 +470,7 @@
         },
         {
           "id": "rukuk-04",
-          "displayOrder": 3,
+          "displayOrder": 4,
           "sourceOrder": 4,
           "subcategory": null,
           "segments": [
@@ -470,7 +493,7 @@
         },
         {
           "id": "rukuk-05",
-          "displayOrder": 4,
+          "displayOrder": 5,
           "sourceOrder": 5,
           "subcategory": null,
           "segments": [
@@ -493,7 +516,7 @@
         },
         {
           "id": "rukuk-06",
-          "displayOrder": 5,
+          "displayOrder": 6,
           "sourceOrder": 6,
           "subcategory": null,
           "segments": [
@@ -516,7 +539,7 @@
         },
         {
           "id": "rukuk-07",
-          "displayOrder": 6,
+          "displayOrder": 7,
           "sourceOrder": 7,
           "subcategory": null,
           "segments": [
@@ -539,7 +562,7 @@
         },
         {
           "id": "rukuk-08",
-          "displayOrder": 7,
+          "displayOrder": 8,
           "sourceOrder": 8,
           "subcategory": null,
           "segments": [
@@ -896,7 +919,7 @@
       "id": "sujud",
       "order": 5,
       "name": "Sujud",
-      "publishedCount": 10,
+      "publishedCount": 11,
       "readings": [
         {
           "id": "sujud-01",
@@ -922,8 +945,31 @@
           }
         },
         {
-          "id": "sujud-03",
+          "id": "sujud-02",
           "displayOrder": 2,
+          "sourceOrder": 2,
+          "subcategory": null,
+          "segments": [
+            {
+              "id": "sujud-02-s01",
+              "order": 1,
+              "label": "Bacaan utama",
+              "arabic": "سُبْحَانَ رَبِّيَ اْلأَعْلَى وَبِحَمْدِهِ",
+              "transliteration": "Subhaana robbiyal a'laa wa bihamdih (3x).",
+              "meaning": "Maha Suci Tuhanku Yang Maha Tinggi, dan dengan pujian untuk-Nya (3x)."
+            }
+          ],
+          "reference": {
+            "text": "HR. Abu Daud no. 870, shahih.",
+            "note": "Dibagikan melalui aplikasi \"Apa Doanya\". Tersedia untuk Android, iOS, dan Windows. Unduh di http://bit.ly/doasunnah  #apadoanya",
+            "context": null,
+            "sourceReference": "https://rumaysho.com/7125-sifat-shalat-nabi-10-cara-sujud.html",
+            "url": "https://rumaysho.com/7125-sifat-shalat-nabi-10-cara-sujud.html"
+          }
+        },
+        {
+          "id": "sujud-03",
+          "displayOrder": 3,
           "sourceOrder": 3,
           "subcategory": null,
           "segments": [
@@ -946,7 +992,7 @@
         },
         {
           "id": "sujud-04",
-          "displayOrder": 3,
+          "displayOrder": 4,
           "sourceOrder": 4,
           "subcategory": null,
           "segments": [
@@ -969,7 +1015,7 @@
         },
         {
           "id": "sujud-05",
-          "displayOrder": 4,
+          "displayOrder": 5,
           "sourceOrder": 5,
           "subcategory": null,
           "segments": [
@@ -992,7 +1038,7 @@
         },
         {
           "id": "sujud-06",
-          "displayOrder": 5,
+          "displayOrder": 6,
           "sourceOrder": 6,
           "subcategory": null,
           "segments": [
@@ -1015,7 +1061,7 @@
         },
         {
           "id": "sujud-07",
-          "displayOrder": 6,
+          "displayOrder": 7,
           "sourceOrder": 7,
           "subcategory": null,
           "segments": [
@@ -1038,7 +1084,7 @@
         },
         {
           "id": "sujud-08",
-          "displayOrder": 7,
+          "displayOrder": 8,
           "sourceOrder": 8,
           "subcategory": null,
           "segments": [
@@ -1061,7 +1107,7 @@
         },
         {
           "id": "sujud-09",
-          "displayOrder": 8,
+          "displayOrder": 9,
           "sourceOrder": 9,
           "subcategory": null,
           "segments": [
@@ -1084,7 +1130,7 @@
         },
         {
           "id": "sujud-10",
-          "displayOrder": 9,
+          "displayOrder": 10,
           "sourceOrder": 10,
           "subcategory": null,
           "segments": [
@@ -1107,7 +1153,7 @@
         },
         {
           "id": "sujud-11",
-          "displayOrder": 10,
+          "displayOrder": 11,
           "sourceOrder": 11,
           "subcategory": null,
           "segments": [

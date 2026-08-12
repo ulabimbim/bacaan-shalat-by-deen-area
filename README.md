@@ -1,6 +1,6 @@
 # PWA Bacaan Shalat
 
-Progressive Web App untuk mengenal bacaan shalat sesuai urutan bagian shalat. Data berasal dari `Database_Variasi_Bacaan_Shalat_Terkurasi.xlsx` dan hanya menampilkan bacaan dengan `siap_publish = Ya`. Untuk bagian Salam, production hanya menampilkan bacaan 3 dan 4 sebagai Variasi 1 dan 2. Dataset production saat ini memuat 81 bacaan dan 83 segmen.
+Progressive Web App untuk mengenal bacaan shalat sesuai urutan bagian shalat. Data berasal dari `Database_Variasi_Bacaan_Shalat_Terkurasi.xlsx` dan hanya menampilkan bacaan dengan `siap_publish = Ya`. Untuk bagian Salam, production hanya menampilkan bacaan 3 dan 4 sebagai Variasi 1 dan 2. Dataset production saat ini memuat 83 bacaan dan 85 segmen.
 
 ## Prasyarat
 
