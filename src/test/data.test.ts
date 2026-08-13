@@ -22,6 +22,10 @@ const HELD_IDS = ['duduk-dua-sujud-05', 'salam-05']
 const REMOVED_SALAM_IDS = ['salam-01', 'salam-02']
 
 const MULTI_SEGMENT_IDS = ['istiftah-01', 'salam-04']
+const RUKUK_08_ARABIC =
+  'اللَّهُمَّ لَكَ رَكَعْتُ وَبِكَ آمَنْتُ وَلَكَ أَسْلَمْتُ وَعَلَيْكَ تَوَكَّلْتُ، أَنْتَ رَبِّي، خَشَعَ سَمْعِي وَبَصَرِي وَدَمِي وَلَحْمِيْ وَعَظَمِي وَعَصَبِي لِلهِ رَبِّ الْعَالَمِيْنَ'
+const ISTIFTAH_02_CONTEXT =
+  'Doa istiftah banyak dan beragam. Rasulullah shallallahu ‘alaihi wa sallam sendiri mengganti-ganti bacaan doa istiftahnya. Terkadang membaca doa yang ini, di kali lain membaca doa yang itu. Ketika shalat fardhu beliau membaca yang satu dan ketika shalat nafilah/sunnah beliau membaca yang lainnya.'
 
 describe('Generated shalat data', () => {
   it('has exactly 10 sections in the correct order', () => {
@@ -64,6 +68,24 @@ describe('Generated shalat data', () => {
   it('does not publish promotional notes for the added rukuk and sujud readings', () => {
     expect(getReadingById('rukuk', 'rukuk-02')?.reference.note).toBeNull()
     expect(getReadingById('sujud', 'sujud-02')?.reference.note).toBeNull()
+  })
+
+  it('publishes the revised Arabic text for rukuk variation 8', () => {
+    expect(getReadingById('rukuk', 'rukuk-08')?.segments[0].arabic).toBe(RUKUK_08_ARABIC)
+  })
+
+  it('removes usage context from the requested itidal variations', () => {
+    const itidal = getSectionById('itidal')
+    const clearedDisplayOrders = [1, 2, 5, 6, 7, 8, 9, 10, 11]
+
+    for (const displayOrder of clearedDisplayOrders) {
+      expect(itidal?.readings[displayOrder - 1].reference.context).toBeNull()
+    }
+  })
+
+  it('revises the usage context for itidal 14 and istiftah 2', () => {
+    expect(getSectionById('itidal')?.readings[13].reference.context).toBe('Sekali waktu dalam shalat malam')
+    expect(getSectionById('doa_istiftah')?.readings[1].reference.context).toBe(ISTIFTAH_02_CONTEXT)
   })
 
   it('keeps only salam variations 3 and 4 and renumbers them', () => {
